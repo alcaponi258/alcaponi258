@@ -1,0 +1,10 @@
+{
+  // Configuration for markdownlint-cli2 used to validate the profile README.
+  "config": {
+    "default": true,
+    // Allow flexible line length for prose in a profile README.
+    "MD013": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}

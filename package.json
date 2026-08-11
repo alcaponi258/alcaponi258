@@ -1,0 +1,15 @@
+{
+  "name": "alcaponi258-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling for the alcaponi258 GitHub profile README: lint and local preview.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
+    "preview": "node scripts/preview.js"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.14.0",
+    "marked": "^14.1.3"
+  }
+}
