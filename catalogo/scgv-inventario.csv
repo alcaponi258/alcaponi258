@@ -1,0 +1,41 @@
+﻿codigo,nombre,modelo,marca,categoria,descripcion,imagen,precio,existencia
+CAM-01,Cámara IP Pro ColorVu 3.0 con IA,DS-2CD2xx7G3,Hikvision,Cámaras IP,"Cámara IP serie Pro con imagen a color de noche y detección de personas y vehículos. Ve todo a color las 24 horas y recibe alertas reales, sin falsas alarmas.",img/CAM-01.png,,0
+CAM-02,Cámara IP Pro con zoom y audio de dos vías,DS-2CD2xx6G3,Hikvision,Cámaras IP,Cámara IP de alta resolución (hasta 12/16 MP) con luz disuasiva y audio de dos vías. Habla y ahuyenta intrusos desde el celular.,img/CAM-02.png,,0
+CAM-03,Cámara IP Pro AcuSense,DS-2CD2xx3G3,Hikvision,Cámaras IP,Cámara IP con análisis AcuSense y modo Live Guard. Protección activa para negocios y hogares.,img/CAM-03.png,,0
+CAM-04,Cámara IP con memoria interna,DS-2CD2xx1,Hikvision,Cámaras IP,Cámara IP con WDR de 120 dB y hasta 256 GB de grabación en la cámara. Graba aunque se caiga la red.,img/CAM-04.png,,0
+CAM-05,Cámara IP Value ColorVu,DS-2CD1xx7G3(H),Hikvision,Cámaras IP,Cámara IP económica con color nocturno y detección de movimiento 2.0. Calidad Hikvision a costo accesible.,img/CAM-05.png,,0
+CAM-06,Cámara IP Eco,DS-2CD1xx1G0,Hikvision,Cámaras IP,Cámara IP de entrada para proyectos pequeños. La opción más económica en IP.,img/CAM-06.png,,0
+CAM-07,Cámara solar 4G AOV,AOV Solar 4G,Hikvision,Cámaras sin cable,"Cámara con panel solar y datos 4G, sin cables de corriente ni internet. Ideal para fincas, solares y obras sin electricidad.",img/CAM-07.png,,0
+CAM-08,Cámara 4G,Serie 4G,Hikvision,Cámaras sin cable,Cámara que transmite por red celular 4G. Vigila lugares sin internet fijo.,img/CAM-08.png,,0
+CAM-09,Kit WiFi NVR EasyLink,EasyLink Wi-Fi NVR/NVS Kit,Hikvision,Kits,"Kit de grabador con cámaras WiFi, salida HDMI y hasta 8 TB. Instalación rápida, casi sin cableado.",img/CAM-09.png,,0
+CAM-10,Cámara Turbo HD luz híbrida ColorVu,DS-2CE12/72KF3TP-DLS,Hikvision,Cámaras Turbo HD,Cámara analógica Turbo HD con luz híbrida inteligente y audio. Mejora sistemas DVR existentes sin cambiar el cableado.,img/CAM-10.png,,0
+CAM-11,Cámara DeepinView X con IA,DeepinViewX,Hikvision,Cámaras de proyecto,"Cámara de proyecto con inteligencia artificial avanzada. Para empresas, residenciales y zonas críticas.",img/CAM-11.png,,0
+CAM-12,Cámara panorámica,Panoramic,Hikvision,Cámaras de proyecto,Cámara multilente que cubre áreas amplias en una sola imagen. Menos cámaras para cubrir parqueos y almacenes.,img/CAM-12.png,,0
+CAM-13,Cámara ojo de pez 360°,Fisheye,Hikvision,Cámaras de proyecto,Cámara de techo con vista completa de 360 grados. Cubre una tienda u oficina completa.,img/CAM-13.png,,0
+CAM-15,Cámara anticorrosión,Anti-corrosion,Hikvision,Cámaras de proyecto,Cámara de acero para ambientes salinos o químicos. Dura en zonas costeras e industriales.,img/CAM-15.png,,0
+GRB-01,NVR serie Value,NVR Value Series,Hikvision,Grabadores NVR,"Grabador para cámaras IP, ideal para hogares y negocios pequeños. Graba y ve todo desde la app Hik-Connect.",img/GRB-01.png,,0
+GRB-02,NVR serie Pro,NVR Pro Series,Hikvision,Grabadores NVR,Grabador IP de más canales y discos para negocios. Crece con su negocio.,img/GRB-02.png,,0
+GRB-03,NVR serie K con AcuSense,K series with AcuSense,Hikvision,Grabadores NVR,Grabador con filtro de alarmas por personas y vehículos. Búsqueda rápida de eventos.,img/GRB-03.png,,0
+GRB-04,NVR serie I con AcuSense,I series with AcuSense,Hikvision,Grabadores NVR,Grabador de alto rendimiento con análisis inteligente. Para proyectos medianos y grandes.,img/GRB-04.png,,0
+GRB-05,NVR Super H,Super H series,Hikvision,Grabadores NVR,Grabador de gran capacidad para proyectos grandes. Muchas cámaras en un solo equipo.,img/GRB-05.png,,0
+RED-02,Puente inalámbrico multipuerto,Wireless Bridge Multi-port Series,Hikvision,Redes,Enlace inalámbrico punto a punto para llevar red entre edificios. Conecta cámaras lejanas sin zanjas ni cables.,img/RED-02.png,,0
+RED-05,Fibra óptica FTTH,FTTH Series 1/2 hilos,Hikvision,Redes,Cable de fibra óptica de 1 y 2 hilos. Distancias largas sin pérdida de señal.,img/RED-05.png,,0
+INT-01,Videoportero IP frente de calle,KD8 series,Hikvision,Intercom,Frente de calle IP con cámara HD y apertura de puerta. Atienda la puerta desde el celular.,img/INT-01.png,,0
+INT-02,Frente de calle modular para edificios,KD92 / KD94 / KD96 series,Hikvision,Intercom,Frente de calle con teclado o pantalla para residenciales y edificios. Control de visitas para cientos de apartamentos.,img/INT-02.png,,0
+INT-03,Videoportero para villa,KV6 / KV8 / KV9 series,Hikvision,Intercom,Frente de calle compacto para casas y villas. Seguridad en la entrada de su casa.,img/INT-03.png,,0
+INT-04,"Pantalla interior 7"" y 10""",KH6 / KH63 / KH83 series,Hikvision,Intercom,Monitor interior táctil para ver y hablar con la visita. Vea quién toca antes de abrir.,img/INT-04.png,,0
+INT-05,Intercom 2 hilos (fácil retrofit),KD7 / KH7 / KAD70 series,Hikvision,Intercom,Videoportero que usa el cableado viejo de 2 hilos. Moderniza sin romper paredes.,img/INT-05.png,,0
+INT-06,Kit videoportero 4 hilos,DS-KIS202T / DS-KIS203T / DS-KIS204T,Hikvision,Intercom,Kit listo con frente de calle y pantalla interior. Instalación sencilla y económica.,img/INT-06.png,,0
+INT-07,Kit videoportero IP,DS-KIS302-P / DS-KIS303-P,Hikvision,Intercom,Kit IP con app móvil para atender desde cualquier lugar. Su puerta en el celular.,img/INT-07.png,,0
+INT-08,Estación maestra para garita,DS-KM9503,Hikvision,Intercom,Consola para el guardián que recibe llamadas de las puertas. Control central de accesos en residenciales.,img/INT-08.png,,0
+INT-09,Teléfonos SIP,KP8000,Hikvision,Intercom,Teléfonos IP SIP para oficinas e intercomunicación. Comunicación interna clara.,img/INT-09.png,,0
+ACC-01,Terminal de visitantes,Visitor Terminal,Hikvision,Control de acceso,Terminal para registrar y controlar visitas. Recepción ordenada y segura.,img/ACC-01.png,,0
+ACC-02,Barrera vehicular,Barrier Gate,Hikvision,Control vehicular,Barrera automática para entradas de vehículos. Control de entrada en parqueos y residenciales.,img/ACC-02.png,,0
+ACC-03,Lectura de placas (ANPR),Entrance/Exit Control Terminals,Hikvision,Control vehicular,Cámaras y terminales que leen la placa y abren la barrera. Acceso automático para residentes.,img/ACC-03.png,,0
+ALA-01,Panel de alarma AX PRO inalámbrico,AX PRO Control Panel,Hikvision,Alarmas,"Panel de alarma inalámbrico con WiFi, 2G/4G y app. Aviso inmediato al celular ante intrusión.",img/ALA-01.png,,0
+ALA-02,Sensores y accesorios de alarma,AX PRO Peripherals,Hikvision,Alarmas,"Sensores de movimiento, puertas, sirenas y controles. Protección completa de cada entrada.",img/ALA-02.png,,0
+ALA-03,Botón de pánico,Panic Alarm Box / PEA series,Hikvision,Alarmas,"Botón de emergencia con llamada y video. Ayuda inmediata en escuelas, bancos y comercios.",img/ALA-03.png,,0
+RED-01,Switch PoE Hikvision,Switch PoE,Hikvision,Redes,Switch que da datos y corriente a las cámaras por un solo cable.,,,0
+RED-03,Router WiFi empresarial,Smart Managed Router,Hikvision,Redes,Router con control de puntos de acceso WiFi.,,,0
+RED-04,Punto de acceso WiFi (AP),AP & AC,Hikvision,Redes,Puntos de acceso WiFi administrados.,,,0
+RED-06,UPS para CCTV y redes,UPS Rack/Tower,Hikvision,Energía,"Respaldo de energía para grabadores, cámaras y redes.",,,0

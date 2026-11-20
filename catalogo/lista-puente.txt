@@ -1,0 +1,48 @@
+CATÁLOGO AINSHOP (Hikvision, sin precios: el precio siempre lo confirma Marco). Código · producto · modelo
+- Cámaras IP:
+  CAM-01 · Cámara IP Pro ColorVu 3.0 con IA · DS-2CD2xx7G3
+  CAM-02 · Cámara IP Pro con zoom y audio de dos vías · DS-2CD2xx6G3
+  CAM-03 · Cámara IP Pro AcuSense · DS-2CD2xx3G3
+  CAM-04 · Cámara IP con memoria interna · DS-2CD2xx1
+  CAM-05 · Cámara IP Value ColorVu · DS-2CD1xx7G3(H)
+  CAM-06 · Cámara IP Eco · DS-2CD1xx1G0
+- Cámaras sin cable:
+  CAM-07 · Cámara solar 4G AOV · AOV Solar 4G
+  CAM-08 · Cámara 4G · Serie 4G
+- Kits:
+  CAM-09 · Kit WiFi NVR EasyLink · EasyLink Wi-Fi NVR/NVS Kit
+- Cámaras Turbo HD:
+  CAM-10 · Cámara Turbo HD luz híbrida ColorVu · DS-2CE12/72KF3TP-DLS
+- Cámaras de proyecto:
+  CAM-11 · Cámara DeepinView X con IA · DeepinViewX
+  CAM-12 · Cámara panorámica · Panoramic
+  CAM-13 · Cámara ojo de pez 360° · Fisheye
+  CAM-15 · Cámara anticorrosión · Anti-corrosion
+- Grabadores NVR:
+  GRB-01 · NVR serie Value · NVR Value Series
+  GRB-02 · NVR serie Pro · NVR Pro Series
+  GRB-03 · NVR serie K con AcuSense · K series with AcuSense
+  GRB-04 · NVR serie I con AcuSense · I series with AcuSense
+  GRB-05 · NVR Super H · Super H series
+- Redes:
+  RED-02 · Puente inalámbrico multipuerto · Wireless Bridge Multi-port Series
+  RED-05 · Fibra óptica FTTH · FTTH Series 1/2 hilos
+- Intercom:
+  INT-01 · Videoportero IP frente de calle · KD8 series
+  INT-02 · Frente de calle modular para edificios · KD92 / KD94 / KD96 series
+  INT-03 · Videoportero para villa · KV6 / KV8 / KV9 series
+  INT-04 · Pantalla interior 7" y 10" · KH6 / KH63 / KH83 series
+  INT-05 · Intercom 2 hilos (fácil retrofit) · KD7 / KH7 / KAD70 series
+  INT-06 · Kit videoportero 4 hilos · DS-KIS202T / DS-KIS203T / DS-KIS204T
+  INT-07 · Kit videoportero IP · DS-KIS302-P / DS-KIS303-P
+  INT-08 · Estación maestra para garita · DS-KM9503
+  INT-09 · Teléfonos SIP · KP8000
+- Control de acceso:
+  ACC-01 · Terminal de visitantes · Visitor Terminal
+- Control vehicular:
+  ACC-02 · Barrera vehicular · Barrier Gate
+  ACC-03 · Lectura de placas (ANPR) · Entrance/Exit Control Terminals
+- Alarmas:
+  ALA-01 · Panel de alarma AX PRO inalámbrico · AX PRO Control Panel
+  ALA-02 · Sensores y accesorios de alarma · AX PRO Peripherals
+  ALA-03 · Botón de pánico · Panic Alarm Box / PEA series

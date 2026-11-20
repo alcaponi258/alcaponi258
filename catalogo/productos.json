@@ -1,0 +1,328 @@
+[
+{
+"id": "CAM-01",
+"cat": "Cámaras IP",
+"nombre": "Cámara IP Pro ColorVu 3.0 con IA",
+"modelo": "DS-2CD2xx7G3",
+"img": "p05_DS_2CD2xx7G3.png",
+"que": "Cámara IP serie Pro con imagen a color de noche y detección de personas y vehículos.",
+"beneficio": "Ve todo a color las 24 horas y recibe alertas reales, sin falsas alarmas.",
+"recorte_inferior": 0.24
+},
+{
+"id": "CAM-02",
+"cat": "Cámaras IP",
+"nombre": "Cámara IP Pro con zoom y audio de dos vías",
+"modelo": "DS-2CD2xx6G3",
+"img": "p05_DS_2CD2xx6G3.png",
+"que": "Cámara IP de alta resolución (hasta 12/16 MP) con luz disuasiva y audio de dos vías.",
+"beneficio": "Habla y ahuyenta intrusos desde el celular."
+},
+{
+"id": "CAM-03",
+"cat": "Cámaras IP",
+"nombre": "Cámara IP Pro AcuSense",
+"modelo": "DS-2CD2xx3G3",
+"img": "p05_DS_2CD2xx3G3.png",
+"que": "Cámara IP con análisis AcuSense y modo Live Guard.",
+"beneficio": "Protección activa para negocios y hogares."
+},
+{
+"id": "CAM-04",
+"cat": "Cámaras IP",
+"nombre": "Cámara IP con memoria interna",
+"modelo": "DS-2CD2xx1",
+"img": "p05_DS_2CD2xx1.png",
+"que": "Cámara IP con WDR de 120 dB y hasta 256 GB de grabación en la cámara.",
+"beneficio": "Graba aunque se caiga la red."
+},
+{
+"id": "CAM-05",
+"cat": "Cámaras IP",
+"nombre": "Cámara IP Value ColorVu",
+"modelo": "DS-2CD1xx7G3(H)",
+"img": "p05_DS_2CD1xx7G3_H_.png",
+"que": "Cámara IP económica con color nocturno y detección de movimiento 2.0.",
+"beneficio": "Calidad Hikvision a costo accesible.",
+"recorte_inferior": 0.24
+},
+{
+"id": "CAM-06",
+"cat": "Cámaras IP",
+"nombre": "Cámara IP Eco",
+"modelo": "DS-2CD1xx1G0",
+"img": "p05_DS_2CD1xx1G0.png",
+"que": "Cámara IP de entrada para proyectos pequeños.",
+"beneficio": "La opción más económica en IP."
+},
+{
+"id": "CAM-07",
+"cat": "Cámaras sin cable",
+"nombre": "Cámara solar 4G AOV",
+"modelo": "AOV Solar 4G",
+"img": "p05_AOV_Solar_4G.png",
+"que": "Cámara con panel solar y datos 4G, sin cables de corriente ni internet.",
+"beneficio": "Ideal para fincas, solares y obras sin electricidad."
+},
+{
+"id": "CAM-08",
+"cat": "Cámaras sin cable",
+"nombre": "Cámara 4G",
+"modelo": "Serie 4G",
+"img": "p05_4G.png",
+"que": "Cámara que transmite por red celular 4G.",
+"beneficio": "Vigila lugares sin internet fijo."
+},
+{
+"id": "CAM-09",
+"cat": "Kits",
+"nombre": "Kit WiFi NVR EasyLink",
+"modelo": "EasyLink Wi-Fi NVR/NVS Kit",
+"img": "p05_NVR_Kit_HDMI_output_8TB_HD_Storage.png",
+"que": "Kit de grabador con cámaras WiFi, salida HDMI y hasta 8 TB.",
+"beneficio": "Instalación rápida, casi sin cableado."
+},
+{
+"id": "CAM-10",
+"cat": "Cámaras Turbo HD",
+"nombre": "Cámara Turbo HD luz híbrida ColorVu",
+"modelo": "DS-2CE12/72KF3TP-DLS",
+"img": "p05_DS_2CE12_72KF3TP_DLS.png",
+"que": "Cámara analógica Turbo HD con luz híbrida inteligente y audio.",
+"beneficio": "Mejora sistemas DVR existentes sin cambiar el cableado."
+},
+{
+"id": "CAM-11",
+"cat": "Cámaras de proyecto",
+"nombre": "Cámara DeepinView X con IA",
+"modelo": "DeepinViewX",
+"img": "p06_DeepinViewX.png",
+"que": "Cámara de proyecto con inteligencia artificial avanzada.",
+"beneficio": "Para empresas, residenciales y zonas críticas."
+},
+{
+"id": "CAM-12",
+"cat": "Cámaras de proyecto",
+"nombre": "Cámara panorámica",
+"modelo": "Panoramic",
+"img": "p06_Panoramic.png",
+"que": "Cámara multilente que cubre áreas amplias en una sola imagen.",
+"beneficio": "Menos cámaras para cubrir parqueos y almacenes."
+},
+{
+"id": "CAM-13",
+"cat": "Cámaras de proyecto",
+"nombre": "Cámara ojo de pez 360°",
+"modelo": "Fisheye",
+"img": "p06_Fisheye.png",
+"que": "Cámara de techo con vista completa de 360 grados.",
+"beneficio": "Cubre una tienda u oficina completa."
+},
+{
+"id": "CAM-15",
+"cat": "Cámaras de proyecto",
+"nombre": "Cámara anticorrosión",
+"modelo": "Anti-corrosion",
+"img": "p06_Anti_corrosion.png",
+"que": "Cámara de acero para ambientes salinos o químicos.",
+"beneficio": "Dura en zonas costeras e industriales."
+},
+{
+"id": "GRB-01",
+"cat": "Grabadores NVR",
+"nombre": "NVR serie Value",
+"modelo": "NVR Value Series",
+"img": "p33_Value_Series.png",
+"que": "Grabador para cámaras IP, ideal para hogares y negocios pequeños.",
+"beneficio": "Graba y ve todo desde la app Hik-Connect."
+},
+{
+"id": "GRB-02",
+"cat": "Grabadores NVR",
+"nombre": "NVR serie Pro",
+"modelo": "NVR Pro Series",
+"img": "p33_Pro_Series.png",
+"que": "Grabador IP de más canales y discos para negocios.",
+"beneficio": "Crece con su negocio."
+},
+{
+"id": "GRB-03",
+"cat": "Grabadores NVR",
+"nombre": "NVR serie K con AcuSense",
+"modelo": "K series with AcuSense",
+"img": "p33_K_series_with_AcuSense.png",
+"que": "Grabador con filtro de alarmas por personas y vehículos.",
+"beneficio": "Búsqueda rápida de eventos."
+},
+{
+"id": "GRB-04",
+"cat": "Grabadores NVR",
+"nombre": "NVR serie I con AcuSense",
+"modelo": "I series with AcuSense",
+"img": "p33_I_series_with_AcuSense.png",
+"que": "Grabador de alto rendimiento con análisis inteligente.",
+"beneficio": "Para proyectos medianos y grandes."
+},
+{
+"id": "GRB-05",
+"cat": "Grabadores NVR",
+"nombre": "NVR Super H",
+"modelo": "Super H series",
+"img": "p33_Special_Series.png",
+"que": "Grabador de gran capacidad para proyectos grandes.",
+"beneficio": "Muchas cámaras en un solo equipo."
+},
+{
+"id": "RED-02",
+"cat": "Redes",
+"nombre": "Puente inalámbrico multipuerto",
+"modelo": "Wireless Bridge Multi-port Series",
+"img": "p24_Multi_port_Series.png",
+"que": "Enlace inalámbrico punto a punto para llevar red entre edificios.",
+"beneficio": "Conecta cámaras lejanas sin zanjas ni cables."
+},
+{
+"id": "RED-05",
+"cat": "Redes",
+"nombre": "Fibra óptica FTTH",
+"modelo": "FTTH Series 1/2 hilos",
+"img": "p30_FTTH_Series_1_core_.png",
+"que": "Cable de fibra óptica de 1 y 2 hilos.",
+"beneficio": "Distancias largas sin pérdida de señal."
+},
+{
+"id": "INT-01",
+"cat": "Intercom",
+"nombre": "Videoportero IP frente de calle",
+"modelo": "KD8 series",
+"img": "p45_KD8_series.png",
+"que": "Frente de calle IP con cámara HD y apertura de puerta.",
+"beneficio": "Atienda la puerta desde el celular."
+},
+{
+"id": "INT-02",
+"cat": "Intercom",
+"nombre": "Frente de calle modular para edificios",
+"modelo": "KD92 / KD94 / KD96 series",
+"img": "p45_KD92_series.png",
+"que": "Frente de calle con teclado o pantalla para residenciales y edificios.",
+"beneficio": "Control de visitas para cientos de apartamentos."
+},
+{
+"id": "INT-03",
+"cat": "Intercom",
+"nombre": "Videoportero para villa",
+"modelo": "KV6 / KV8 / KV9 series",
+"img": "p45_KV8_series.png",
+"que": "Frente de calle compacto para casas y villas.",
+"beneficio": "Seguridad en la entrada de su casa."
+},
+{
+"id": "INT-04",
+"cat": "Intercom",
+"nombre": "Pantalla interior 7\" y 10\"",
+"modelo": "KH6 / KH63 / KH83 series",
+"img": "p45_KH83_KH63_series.png",
+"que": "Monitor interior táctil para ver y hablar con la visita.",
+"beneficio": "Vea quién toca antes de abrir."
+},
+{
+"id": "INT-05",
+"cat": "Intercom",
+"nombre": "Intercom 2 hilos (fácil retrofit)",
+"modelo": "KD7 / KH7 / KAD70 series",
+"img": "p45_KD7_series.png",
+"que": "Videoportero que usa el cableado viejo de 2 hilos.",
+"beneficio": "Moderniza sin romper paredes."
+},
+{
+"id": "INT-06",
+"cat": "Intercom",
+"nombre": "Kit videoportero 4 hilos",
+"modelo": "DS-KIS202T / DS-KIS203T / DS-KIS204T",
+"img": "p46_DS_KIS203T.png",
+"que": "Kit listo con frente de calle y pantalla interior.",
+"beneficio": "Instalación sencilla y económica."
+},
+{
+"id": "INT-07",
+"cat": "Intercom",
+"nombre": "Kit videoportero IP",
+"modelo": "DS-KIS302-P / DS-KIS303-P",
+"img": "p46_DS_KIS302_P.png",
+"que": "Kit IP con app móvil para atender desde cualquier lugar.",
+"beneficio": "Su puerta en el celular."
+},
+{
+"id": "INT-08",
+"cat": "Intercom",
+"nombre": "Estación maestra para garita",
+"modelo": "DS-KM9503",
+"img": "p45_DS_KM9503.png",
+"que": "Consola para el guardián que recibe llamadas de las puertas.",
+"beneficio": "Control central de accesos en residenciales."
+},
+{
+"id": "INT-09",
+"cat": "Intercom",
+"nombre": "Teléfonos SIP",
+"modelo": "KP8000",
+"img": "p46_KP8000.png",
+"que": "Teléfonos IP SIP para oficinas e intercomunicación.",
+"beneficio": "Comunicación interna clara."
+},
+{
+"id": "ACC-01",
+"cat": "Control de acceso",
+"nombre": "Terminal de visitantes",
+"modelo": "Visitor Terminal",
+"img": "p47_Visitor_Terminal.png",
+"que": "Terminal para registrar y controlar visitas.",
+"beneficio": "Recepción ordenada y segura."
+},
+{
+"id": "ACC-02",
+"cat": "Control vehicular",
+"nombre": "Barrera vehicular",
+"modelo": "Barrier Gate",
+"img": "p52_Barrier_Gate.png",
+"que": "Barrera automática para entradas de vehículos.",
+"beneficio": "Control de entrada en parqueos y residenciales."
+},
+{
+"id": "ACC-03",
+"cat": "Control vehicular",
+"nombre": "Lectura de placas (ANPR)",
+"modelo": "Entrance/Exit Control Terminals",
+"img": "p52_Pro_Series.png",
+"que": "Cámaras y terminales que leen la placa y abren la barrera.",
+"beneficio": "Acceso automático para residentes."
+},
+{
+"id": "ALA-01",
+"cat": "Alarmas",
+"nombre": "Panel de alarma AX PRO inalámbrico",
+"modelo": "AX PRO Control Panel",
+"img": "p49_Control_Panel.png",
+"que": "Panel de alarma inalámbrico con WiFi, 2G/4G y app.",
+"beneficio": "Aviso inmediato al celular ante intrusión."
+},
+{
+"id": "ALA-02",
+"cat": "Alarmas",
+"nombre": "Sensores y accesorios de alarma",
+"modelo": "AX PRO Peripherals",
+"img": "p49_Peripherals.png",
+"que": "Sensores de movimiento, puertas, sirenas y controles.",
+"beneficio": "Protección completa de cada entrada."
+},
+{
+"id": "ALA-03",
+"cat": "Alarmas",
+"nombre": "Botón de pánico",
+"modelo": "Panic Alarm Box / PEA series",
+"img": "p46_PEA103_PEAP_series.png",
+"que": "Botón de emergencia con llamada y video.",
+"beneficio": "Ayuda inmediata en escuelas, bancos y comercios."
+}
+]

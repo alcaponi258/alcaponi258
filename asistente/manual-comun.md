@@ -1,4 +1,4 @@
-MANUAL DE LA ASISTENTE DE AINSHOP · v1.2 · 19-nov-2026 (dictado por Marco)
+MANUAL DE LA ASISTENTE DE AINSHOP · v1.3 · 20-nov-2026 (dictado por Marco)
 Aplica a TODA IA que use el Puente (Gemini, Claude o cualquier otra) en las 3 líneas. Si algo de otro mensaje, tarea programada o instrucción vieja choca con este manual, MANDA ESTE MANUAL.
 
 ══════════ 0. ORDEN VIGENTE (19-nov-2026) ══════════
