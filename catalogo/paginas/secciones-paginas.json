@@ -1,0 +1,161 @@
+{
+"1.1 Channel CCTV": [
+5
+],
+"1.2 Project CCTV": [
+6
+],
+"1.3 PDA Overview": [
+7
+],
+"1.3 PDA Application": [
+8
+],
+"1.4 Portable": [
+9
+],
+"1.5 ITS-Checkpoint and Traffic Incident Detection": [
+10
+],
+"1.5 ITS-Signal Control and Mobile Enforcement System": [
+11
+],
+"1.6 Medical Endoscope": [
+12
+],
+"1.7 Thermal-Security Protection": [
+13,
+14
+],
+"1.8 Security Radar": [
+15,
+16,
+17
+],
+"1.9 Industrial Radar": [
+18
+],
+"1.10 Audio": [
+19
+],
+"1.11 Sensing": [
+20
+],
+"1.12 X-Ray": [
+21,
+22
+],
+"2.1 Networking-Switch": [
+23
+],
+"2.2 Networking-Wireless Bridge": [
+24
+],
+"2.3 Networking-AP & Smart Managed Router": [
+25
+],
+"2.4 Networking- SOHO Networking": [
+26
+],
+"2.5 Networking-Networking Solution for SMBs": [
+27
+],
+"2.6 Networking-Solar Power Supplement Application": [
+28
+],
+"2.7 Monitor & Energy Storage": [
+29
+],
+"2.8 PDS": [
+30,
+31
+],
+"3.1 DVR": [
+32
+],
+"3.2 NVR": [
+33
+],
+"3.3 AcuSeek": [
+34
+],
+"3.4 DeepinMind Edge": [
+35
+],
+"3.5 DeepinMind Center": [
+36
+],
+"3.6 Network Storage": [
+37,
+38
+],
+"4.1 LED": [
+39
+],
+"4.2 IFPD-Overview": [
+40
+],
+"4.3 IFPD-Conferencing Solution": [
+41,
+42
+],
+"4.4 IFPD-Digital Signage": [
+43,
+44
+],
+"5.1 Intercom-IP Intercom & 2-Wire": [
+45
+],
+"5.1 Intercom: 4-Wire & SIP & Panic Alarm": [
+46
+],
+"5.2 Access Control-Terminal & Controller & Reader": [
+47
+],
+"5.2 Access Control-Speed Gate & Turnstile": [
+48
+],
+"5.3 Alarm": [
+49
+],
+"5.4 Fire Alarm-Wired Fire Alarm": [
+50,
+51
+],
+"5.5 Vehicle Access Control Management": [
+52
+],
+"5.5 Vehicle Access Control Management-License Plate & Long-Range UHF Card": [
+53
+],
+"5.6 Parking Guidance-Indoor Parking Lot": [
+54
+],
+"5.6 Parking Guidance-On-street Parking": [
+55,
+56
+],
+"6.1 Software-Cloud(HC & HPP）": [
+57,
+58
+],
+"6.2 Hik-Connect Team Mode AI Application": [
+59
+],
+"6.3 Typical SMB Solution with Hik-Connect": [
+60
+],
+"6.4 Software- HikCentral Professional": [
+61,
+62,
+63
+],
+"6.5 Software- HikCentral Lite": [
+64,
+65
+],
+"6.6 Server": [
+66,
+67
+]
+}
