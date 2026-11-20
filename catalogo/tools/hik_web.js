@@ -15,16 +15,32 @@ function pick(pat) {
 (async () => {
   const px = process.env.HTTPS_PROXY;
   const b = await chromium.launch({proxy: px ? {server: px} : undefined});
-  const c = await b.newContext({userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36'});
-  const p = await c.newPage();
-  await p.goto('https://www.hikvision.com/en/', {waitUntil: 'load', timeout: 60000}); await p.waitForTimeout(2500);
+  let c, p;
+  async function fresh() {
+    if (c) await c.close().catch(() => {});
+    c = await b.newContext({userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36'});
+    p = await c.newPage();
+    await p.goto('https://www.hikvision.com/en/', {waitUntil: 'load', timeout: 60000}).catch(() => {}); await p.waitForTimeout(3000);
+  }
+  await fresh();
+  async function grab(u) {
+    await p.goto(u, {waitUntil: 'domcontentloaded', timeout: 45000});
+    let img = await p.$eval('meta[name="page-image"]', m => m.content).catch(() => null);
+    if (!img) {
+      const h = await p.content();
+      const m = h.match(/https:\/\/assets\.hikvision\.com\/prd\/normal\/all\/image\/[^"' )\\?]+\.(png|jpe?g)/i);
+      img = m && m[0];
+    }
+    return img;
+  }
   for (const {key, pattern} of models) {
-    if (map[key] && map[key].file) continue;
+    if (map[key] && (map[key].file || map[key].url === null)) continue;
     const u = pick(pattern); if (!u) { map[key] = {url: null}; continue; }
     try {
-      await p.goto(u, {waitUntil: 'domcontentloaded', timeout: 45000});
-      let img = await p.$eval('meta[name="page-image"]', m => m.content).catch(() => null);
-      if (!img) { await p.waitForTimeout(1500); await p.goto(u, {waitUntil: 'domcontentloaded', timeout: 45000}); img = await p.$eval('meta[name="page-image"]', m => m.content).catch(() => null); }
+      let img;
+      try { img = await grab(u); } catch (e) { await p.waitForTimeout(8000); await fresh(); img = await grab(u); }
+      if (!img) { await p.waitForTimeout(2000); img = await grab(u).catch(() => null); }
+      await p.waitForTimeout(1200);
       if (!img) { map[key] = {url: u, img: null}; continue; }
       const r = await c.request.get(encodeURI(decodeURI(img)));
       const ext = (img.match(/\.(png|jpe?g|webp)$/i) || ['.png'])[0];
