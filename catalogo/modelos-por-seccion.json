@@ -108,7 +108,7 @@
  "1.9 Industrial Radar": [],
  "1.10 Audio": [],
  "1.11 Sensing": [
-  "DeepinMind NVR BOX HikCentral Professional Optical Fiber PTZ IP Speaker PTZ IP Speaker PTZ IP Speaker PTZ IP Speaker Intrusion Detection Stress Detection Linear Perimeter Border Highway Railway Oil"
+  "HikCentral Professional"
  ],
  "1.12 X-Ray": [
   "SMW1701S-C",
@@ -197,7 +197,6 @@
   "DS-77xxNXI-K4/VPro"
  ],
  "3.4 DeepinMind Edge": [
-  "DeepinMind Edge PPE 1 GPU supports up to 4 AI algorithms running Facial recognition People counting Behavior Status management Vehicles Smoking and calling Gun Fire and smoke Non",
   "NXI-S DeepinMind M Series",
   "DeepinMind Super H Series",
   "Fusion AI series",
@@ -206,7 +205,6 @@
   "DeepinMind Edge"
  ],
  "3.5 DeepinMind Center": [
-  "DeepinMind Center Full Analysis Server Fusion Server Ultra",
   "AcuSeek",
   "DS-IF20",
   "DS-IX20",
@@ -268,7 +266,8 @@
   "Thickness Non-Touch Series",
   "DS-D60xxUN-D/S",
   "Box DS-D60E-B Touch Series",
-  "Wall-Mounted Series Floor-Standing Series"
+  "Wall-Mounted Series",
+  "Floor-Standing Series"
  ],
  "5.1 Intercom-IP Intercom & 2-Wire": [
   "Wire KH6000 series",
@@ -355,14 +354,14 @@
   "AX Hybrid PRO Series"
  ],
  "5.4 Fire Alarm-Wired Fire Alarm": [
-  "HikCentral Professional Addressable System Wireless System Fusion Detection Camera",
+  "HikCentral Professional",
   "Interlinked Series",
   "Interlinked Kit Series",
   "Fusion Series"
  ],
  "5.5 Vehicle Access Control Management": [
   "Ultra Series",
-  "Ultra Series Value Series",
+  "Value Series",
   "Pro Series"
  ],
  "5.5 Vehicle Access Control Management-License Plate & Long-Range UHF Card": [],
@@ -379,25 +378,15 @@
   "Hik-Connect"
  ],
  "6.4 Software- HikCentral Professional": [
-  "HikCentral Professional",
-  "HikCentral Professional - Versatile security in one platform 6",
-  "HikCentral Professional Video Management Access Control Powered by HikCentral OpenAPI Gateway CCTV Sys BMS",
-  "HikCentral Professional - Add-on architecture HikCentral Professional adopts an to support multi-vertical applications with high flexibility 6",
-  "AcuSeek NVR Intelligent Fusion Server People Counting Network Camera DeepViewX Camera Intelligent Traffic Products Smart Search AcuSearch AcuSeek Intelligent Analysis All Results",
-  "HikCentral Professional - 3 levels of AI capabilities 6"
+  "HikCentral Professional"
  ],
  "6.5 Software- HikCentral Lite": [
   "HikCentral Lite",
   "AcuSeek",
-  "HikCentral Lite HikCentral Lite provides peace of mind and robust protection for your business",
-  "AcuSeek Search effortlessly with natural language",
-  "AX PRO",
-  "HikCentral Lite Client supports cascading multiple servers for seamless live view",
-  "HikCentral Lite servers for massive video management"
+  "AX PRO"
  ],
  "6.6 Server": [
   "HikCentral Mini Cube",
-  "HikCentral Mini Cube Redundant Hot-Swappable PSU",
   "HikCentral-P-VER",
   "HikCentral Professional Server HikCentral-P-VET",
   "HikCentral-P-VET",
@@ -413,7 +402,6 @@
   "DS-VE41-T/HW7(B)",
   "DS-VE41-T/HW71(B)",
   "DS-VE41-T/HW72(B)",
-  "HikCentral Mini Cube Seamlessly integrate with existing cameras from multiple brands More 3rd Party Cameras Native API",
   "AcuSeek Compatible with leading third"
  ]
 }

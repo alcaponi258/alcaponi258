@@ -7,7 +7,8 @@ const urls = fs.readFileSync(urlsFile, 'utf8').split('\n').filter(Boolean);
 const models = JSON.parse(fs.readFileSync(modelsFile, 'utf8'));   // [{key, pattern}]
 const mapFile = path.join(out, 'map.json');
 const map = fs.existsSync(mapFile) ? JSON.parse(fs.readFileSync(mapFile)) : {};
-function pick(pat) {
+function pick(pat, n) {
+  if (pat.startsWith('URL:')) { const re = new RegExp(pat.slice(4), 'i'); const m = urls.filter(u => re.test(u) && u.split('/').length >= 10); return m[(n || 0) * 7 % Math.max(1, m.length)]; }
   const re = new RegExp(pat, 'i'); // patrones flexibles: buscan en el nombre del producto
   const m = urls.filter(u => re.test(u.split('/').slice(-2, -1)[0] || ''));
   return m.sort((a, b) => a.length - b.length)[0];
@@ -33,9 +34,9 @@ function pick(pat) {
     }
     return img;
   }
-  for (const {key, pattern} of models) {
+  for (const {key, pattern, n} of models) {
     if (map[key] && (map[key].file || map[key].url === null)) continue;
-    const u = pick(pattern); if (!u) { map[key] = {url: null}; continue; }
+    const u = pick(pattern, n); if (!u) { map[key] = {url: null}; continue; }
     try {
       let img;
       try { img = await grab(u); } catch (e) { await p.waitForTimeout(8000); await fresh(); img = await grab(u); }

@@ -46,5 +46,12 @@ with open(f'{BASE}/scgv-inventario.csv', 'w', newline='', encoding='utf-8-sig') 
 con = sum(1 for r in rows if r['foto'])
 print(f'modelos: {len(rows)} · con foto oficial: {con} · secciones: {len(SEC)}')
 
+# fotos oficiales por línea (categorías de hikvision.com) para líneas sin foto por modelo
+LINE = {}
+for k, v in MAP.items():
+    if k.startswith('SEC::') and v.get('file'):
+        sec = k.split('::')[1]; shutil.copy(f'{HV}/{v["file"]}', f'{BASE}/img-oficial/{v["file"]}')
+        LINE.setdefault(sec, []).append(f'img-oficial/{v["file"]}')
+
 # 4) reusar el generador de gamas con las fotos oficiales
 exec(open(f'{BASE}/tools/gamas.py', encoding='utf-8').read().replace('#__V3__', ''))

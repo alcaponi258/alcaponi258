@@ -86,6 +86,7 @@ ITEMS = json.load(open(f'{CROPS}/items.json')) if CROPS else []
 def collage(k, pns):
     R = globals().get('rows') or []
     ims = [white_bg(Image.open(f"{BASE}/{r['foto']}")) for r in R if r['seccion'] == k and r['foto']][:4]
+    if not ims: ims = [white_bg(Image.open(f"{BASE}/{x}")) for x in (globals().get('LINE') or {}).get(k, [])][:4]
     if not ims:
         fs = [i for i in ITEMS if i['seccion'] == k or i['pagina'] in pns]
         ims = [white_bg(Image.open(f"{CROPS}/{i['imagen']}")) for i in fs]
@@ -102,7 +103,20 @@ def collage(k, pns):
 for k, pns in pages.items():
     if k not in SEC: continue
     nom, desc, ideal = SEC[k]; code = k.split()[0]
-    promo(collage(k, pns), 'NUEVA LÍNEA', nom, desc, ['Ideal para: ' + ideal, 'Asesoría y levantamiento con nuestros técnicos', 'Instalación profesional · garantía de 90 días en mano de obra'], f'{BASE}/promos-gamas/{code}-{pns[0]:02d}.jpg')
+    col = collage(k, pns); os.makedirs(f'{BASE}/img-linea', exist_ok=True); col.save(f'{BASE}/img-linea/{code}-{pns[0]:02d}.jpg', quality=90)
+    R = globals().get('rows') or []
+    ofi = [r for r in R if r['seccion'] == k and r.get('foto') and r.get('tipo', 'oficial') == 'oficial']
+    norm = lambda t: re.sub(r'[^a-z0-9]', '', t.lower())
+    for r in R:
+        if r['seccion'] != k or r.get('foto'): continue
+        best = max(ofi, key=lambda o: len(os.path.commonprefix([norm(o['modelo']), norm(r['modelo'])])), default=None)
+        if best and len(os.path.commonprefix([norm(best['modelo']), norm(r['modelo'])])) >= 4:
+            r['foto'], r['tipo'] = best['foto'], 'similar'
+        elif (globals().get('LINE') or {}).get(k):
+            L = LINE[k]; r['foto'], r['tipo'] = L[R.index(r) % len(L)], 'similar'
+        else:
+            r['foto'], r['tipo'] = f'img-linea/{code}-{pns[0]:02d}.jpg', 'linea'
+    promo(col, 'NUEVA LÍNEA', nom, desc, ['Ideal para: ' + ideal, 'Asesoría y levantamiento con nuestros técnicos', 'Instalación profesional · garantía de 90 días en mano de obra'], f'{BASE}/promos-gamas/{code}-{pns[0]:02d}.jpg')
 
 # ---- 3) promociones por producto con el diseño nuevo
 for p in PROD:
@@ -112,7 +126,8 @@ os.makedirs(f'{BASE}/promos-v3', exist_ok=True)
 for r in globals().get('rows') or []:
     if not r['foto']: continue
     nom, desc, ideal = SEC.get(r['seccion'], [r['linea'], '', ''])
-    promo(white_bg(Image.open(f"{BASE}/{r['foto']}")), 'DISPONIBLE', nom, 'Modelo ' + r['modelo'], ['Ideal para: ' + ideal, 'Producto original Hikvision', 'Instalación profesional · garantía de 90 días en mano de obra'], f"{BASE}/promos-v3/{r['codigo']}.jpg")
+    sub = 'Modelo ' + r['modelo'] + ('' if r.get('tipo', 'oficial') == 'oficial' else ' · imagen de referencia')
+    promo(white_bg(Image.open(f"{BASE}/{r['foto']}")), 'DISPONIBLE', nom, sub, ['Ideal para: ' + ideal, 'Producto original Hikvision', 'Instalación profesional · garantía de 90 días en mano de obra'], f"{BASE}/promos-v3/{r['codigo']}.jpg")
 
 # ---- 4) catálogo completo y presentación para constructoras (HTML -> PDF)
 CSS = '''@page{size:A4 landscape;margin:0}body{margin:0;font-family:DejaVu Sans,Arial,sans-serif;color:#0a162e}
@@ -163,3 +178,6 @@ VAL = ('<div class="pg"><div class="head"><h2>Por qué ainshop tecnology para su
        '</div><div class="bar">{EMP} · WhatsApp {TEL}</div></div>').replace('{EMP}', EMP).replace('{TEL}', TEL)
 open(f'{BASE}/presentacion-constructoras.html', 'w', encoding='utf-8').write(doc_html('Soluciones de seguridad y tecnología para constructoras', 'Residenciales, torres, plazas y proyectos comerciales', CONS, VAL))
 print('secciones con páginas:', len(pages), '| promos gamas:', len(os.listdir(f'{BASE}/promos-gamas')), '| promos v2:', len(os.listdir(f'{BASE}/promos-v2')))
+if globals().get('rows'):
+    json.dump(rows, open(f'{BASE}/productos-v3.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    print('modelos con imagen:', sum(1 for r in rows if r.get('foto')), 'de', len(rows))
