@@ -7,7 +7,8 @@
 "img": "p05_DS_2CD2xx7G3.png",
 "que": "Cámara IP serie Pro con imagen a color de noche y detección de personas y vehículos.",
 "beneficio": "Ve todo a color las 24 horas y recibe alertas reales, sin falsas alarmas.",
-"recorte_inferior": 0.24
+"recorte_inferior": 0.24,
+"img_oficial": "img-oficial/DS_2CD2xx7G3.png"
 },
 {
 "id": "CAM-02",
@@ -16,7 +17,8 @@
 "modelo": "DS-2CD2xx6G3",
 "img": "p05_DS_2CD2xx6G3.png",
 "que": "Cámara IP de alta resolución (hasta 12/16 MP) con luz disuasiva y audio de dos vías.",
-"beneficio": "Habla y ahuyenta intrusos desde el celular."
+"beneficio": "Habla y ahuyenta intrusos desde el celular.",
+"img_oficial": "img-oficial/DS_2CD2xx6G3.png"
 },
 {
 "id": "CAM-03",
@@ -25,7 +27,8 @@
 "modelo": "DS-2CD2xx3G3",
 "img": "p05_DS_2CD2xx3G3.png",
 "que": "Cámara IP con análisis AcuSense y modo Live Guard.",
-"beneficio": "Protección activa para negocios y hogares."
+"beneficio": "Protección activa para negocios y hogares.",
+"img_oficial": "img-oficial/DS_2CD2xx3G3.png"
 },
 {
 "id": "CAM-04",
@@ -34,7 +37,8 @@
 "modelo": "DS-2CD2xx1",
 "img": "p05_DS_2CD2xx1.png",
 "que": "Cámara IP con WDR de 120 dB y hasta 256 GB de grabación en la cámara.",
-"beneficio": "Graba aunque se caiga la red."
+"beneficio": "Graba aunque se caiga la red.",
+"img_oficial": "img-oficial/DS_2CD2xx1.png"
 },
 {
 "id": "CAM-05",
@@ -44,7 +48,8 @@
 "img": "p05_DS_2CD1xx7G3_H_.png",
 "que": "Cámara IP económica con color nocturno y detección de movimiento 2.0.",
 "beneficio": "Calidad Hikvision a costo accesible.",
-"recorte_inferior": 0.24
+"recorte_inferior": 0.24,
+"img_oficial": "img-oficial/DS_2CD1xx7G3_H_.png"
 },
 {
 "id": "CAM-06",
@@ -89,7 +94,8 @@
 "modelo": "DS-2CE12/72KF3TP-DLS",
 "img": "p05_DS_2CE12_72KF3TP_DLS.png",
 "que": "Cámara analógica Turbo HD con luz híbrida inteligente y audio.",
-"beneficio": "Mejora sistemas DVR existentes sin cambiar el cableado."
+"beneficio": "Mejora sistemas DVR existentes sin cambiar el cableado.",
+"img_oficial": "img-oficial/DS_2CE12.png"
 },
 {
 "id": "CAM-11",
@@ -197,7 +203,8 @@
 "modelo": "KD8 series",
 "img": "p45_KD8_series.png",
 "que": "Frente de calle IP con cámara HD y apertura de puerta.",
-"beneficio": "Atienda la puerta desde el celular."
+"beneficio": "Atienda la puerta desde el celular.",
+"img_oficial": "img-oficial/KD8.png"
 },
 {
 "id": "INT-02",
@@ -206,7 +213,8 @@
 "modelo": "KD92 / KD94 / KD96 series",
 "img": "p45_KD92_series.png",
 "que": "Frente de calle con teclado o pantalla para residenciales y edificios.",
-"beneficio": "Control de visitas para cientos de apartamentos."
+"beneficio": "Control de visitas para cientos de apartamentos.",
+"img_oficial": "img-oficial/KD92.png"
 },
 {
 "id": "INT-03",
@@ -215,7 +223,8 @@
 "modelo": "KV6 / KV8 / KV9 series",
 "img": "p45_KV8_series.png",
 "que": "Frente de calle compacto para casas y villas.",
-"beneficio": "Seguridad en la entrada de su casa."
+"beneficio": "Seguridad en la entrada de su casa.",
+"img_oficial": "img-oficial/KV6.png"
 },
 {
 "id": "INT-04",
@@ -224,7 +233,8 @@
 "modelo": "KH6 / KH63 / KH83 series",
 "img": "p45_KH83_KH63_series.png",
 "que": "Monitor interior táctil para ver y hablar con la visita.",
-"beneficio": "Vea quién toca antes de abrir."
+"beneficio": "Vea quién toca antes de abrir.",
+"img_oficial": "img-oficial/KH6.png"
 },
 {
 "id": "INT-05",
@@ -233,7 +243,8 @@
 "modelo": "KD7 / KH7 / KAD70 series",
 "img": "p45_KD7_series.png",
 "que": "Videoportero que usa el cableado viejo de 2 hilos.",
-"beneficio": "Moderniza sin romper paredes."
+"beneficio": "Moderniza sin romper paredes.",
+"img_oficial": "img-oficial/KD7.png"
 },
 {
 "id": "INT-06",
@@ -260,7 +271,8 @@
 "modelo": "DS-KM9503",
 "img": "p45_DS_KM9503.png",
 "que": "Consola para el guardián que recibe llamadas de las puertas.",
-"beneficio": "Control central de accesos en residenciales."
+"beneficio": "Control central de accesos en residenciales.",
+"img_oficial": "img-oficial/DS_KM9503.png"
 },
 {
 "id": "INT-09",
@@ -269,7 +281,8 @@
 "modelo": "KP8000",
 "img": "p46_KP8000.png",
 "que": "Teléfonos IP SIP para oficinas e intercomunicación.",
-"beneficio": "Comunicación interna clara."
+"beneficio": "Comunicación interna clara.",
+"img_oficial": "img-oficial/KP8000.png"
 },
 {
 "id": "ACC-01",
