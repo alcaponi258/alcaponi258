@@ -66,7 +66,7 @@ for key, (t1, t2, cats, gamas) in REELS.items():
     out = f'{BASE}/comerciales/{key}'; os.makedirs(out, exist_ok=True)
     sl = [slide_cover(t1, t2)]
     for p in [x for x in P if x['cat'] in cats][:7]:
-        sl.append(slide_img(p['cat'], p['nombre'], p['beneficio'], clean(Image.open(f'{BASE}/img/{p["id"]}.png'))))
+        sl.append(slide_img(p['cat'], p['nombre'], p['beneficio'], clean(Image.open(f'{BASE}/{p["img_oficial"]}' if p.get('img_oficial') else f'{BASE}/img/{p["id"]}.png'))))
     for g in gamas:
         fs = sorted(x for x in os.listdir(f'{BASE}/promos-gamas') if x.startswith(g + '-'))[:1]
         for fn in fs:

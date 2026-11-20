@@ -84,8 +84,11 @@ def page_img(pn):
 CROPS = sys.argv[2] if len(sys.argv) > 2 else ''
 ITEMS = json.load(open(f'{CROPS}/items.json')) if CROPS else []
 def collage(k, pns):
-    fs = [i for i in ITEMS if i['seccion'] == k or i['pagina'] in pns]
-    ims = [white_bg(Image.open(f"{CROPS}/{i['imagen']}")) for i in fs]
+    R = globals().get('rows') or []
+    ims = [white_bg(Image.open(f"{BASE}/{r['foto']}")) for r in R if r['seccion'] == k and r['foto']][:4]
+    if not ims:
+        fs = [i for i in ITEMS if i['seccion'] == k or i['pagina'] in pns]
+        ims = [white_bg(Image.open(f"{CROPS}/{i['imagen']}")) for i in fs]
     ims = sorted([x for x in ims if x.width * x.height > 6000], key=lambda x: -x.width * x.height)[:4]
     if not ims: return page_img(pns[0])
     W, H = 1000, 760; c = Image.new('RGB', (W, H), WHITE); n = len(ims)
@@ -103,7 +106,13 @@ for k, pns in pages.items():
 
 # ---- 3) promociones por producto con el diseño nuevo
 for p in PROD:
-    promo(white_bg(Image.open(f'{BASE}/img/{p["id"]}.png')), 'OFERTA ESPECIAL', p['nombre'], 'Modelo ' + p['modelo'], [p['beneficio'], 'Producto original Hikvision', 'Instalación profesional · garantía de 90 días en mano de obra'], f'{BASE}/promos-v2/{p["id"]}.jpg')
+    promo(white_bg(Image.open(f'{BASE}/{p["img_oficial"]}' if p.get('img_oficial') else f'{BASE}/img/{p["id"]}.png')), 'OFERTA ESPECIAL', p['nombre'], 'Modelo ' + p['modelo'], [p['beneficio'], 'Producto original Hikvision', 'Instalación profesional · garantía de 90 días en mano de obra'], f'{BASE}/promos-v2/{p["id"]}.jpg')
+
+os.makedirs(f'{BASE}/promos-v3', exist_ok=True)
+for r in globals().get('rows') or []:
+    if not r['foto']: continue
+    nom, desc, ideal = SEC.get(r['seccion'], [r['linea'], '', ''])
+    promo(white_bg(Image.open(f"{BASE}/{r['foto']}")), 'DISPONIBLE', nom, 'Modelo ' + r['modelo'], ['Ideal para: ' + ideal, 'Producto original Hikvision', 'Instalación profesional · garantía de 90 días en mano de obra'], f"{BASE}/promos-v3/{r['codigo']}.jpg")
 
 # ---- 4) catálogo completo y presentación para constructoras (HTML -> PDF)
 CSS = '''@page{size:A4 landscape;margin:0}body{margin:0;font-family:DejaVu Sans,Arial,sans-serif;color:#0a162e}
@@ -115,12 +124,18 @@ CSS = '''@page{size:A4 landscape;margin:0}body{margin:0;font-family:DejaVu Sans,
 .body{display:flex;gap:7mm;padding:6mm 12mm}.body img{width:200mm;border-radius:8px;box-shadow:0 2px 10px #0002}
 .side{font-size:11px;line-height:1.45}.side b{color:#c8102e}.side ul{padding-left:14px;margin:2mm 0}
 .idx{padding:12mm 16mm;columns:2;font-size:13px;line-height:1.9}.idx b{color:#c8102e;margin-right:6px}
-.val{padding:14mm 18mm;display:grid;grid-template-columns:1fr 1fr;gap:9mm}.val div{background:#f1f4f9;border-radius:12px;padding:7mm;font-size:14px}.val h3{margin:0 0 3mm;color:#c8102e}'''
+.val{padding:14mm 18mm;display:grid;grid-template-columns:1fr 1fr;gap:9mm}.val div{background:#f1f4f9;border-radius:12px;padding:7mm;font-size:14px}.val h3{margin:0 0 3mm;color:#c8102e}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:5mm;padding:6mm 12mm}.cell{background:#fff;border:1px solid #e3e8f0;border-radius:10px;text-align:center;padding:3mm;height:64mm;display:flex;flex-direction:column;justify-content:space-between}.cell img{height:52mm;object-fit:contain;width:100%}.cell span{font-size:11px;font-weight:700}'''
 def sec_pages(keys):
     h = ''
     for k in keys:
         if k not in pages or k not in SEC: continue
         nom, desc, ideal = SEC[k]; mods = MOD.get(k, [])
+        R = [r for r in (globals().get('rows') or []) if r['seccion'] == k and r['foto']]
+        for j in range(0, len(R), 8):
+            cells = ''.join(f'<div class="cell"><img src="{r["foto"]}"><span>{html.escape(r["modelo"])}</span></div>' for r in R[j:j+8])
+            h += (f'<div class="pg"><div class="head"><h2>{html.escape(nom)}</h2><p>{html.escape(desc)} · Ideal para: {html.escape(ideal)}</p></div>'
+                  f'<div class="grid4">{cells}</div><div class="bar">{EMP} · WhatsApp {TEL} · Precio: solicite su cotización</div></div>')
         for i, pn in enumerate(pages[k]):
             lst = ''.join(f'<li>{html.escape(m)}</li>' for m in mods[:28]) if i == 0 and mods else ''
             h += (f'<div class="pg"><div class="head"><h2>{html.escape(nom)}</h2><p>{html.escape(desc)}</p></div>'
