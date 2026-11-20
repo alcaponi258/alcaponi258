@@ -8,7 +8,7 @@ const models = JSON.parse(fs.readFileSync(modelsFile, 'utf8'));   // [{key, patt
 const mapFile = path.join(out, 'map.json');
 const map = fs.existsSync(mapFile) ? JSON.parse(fs.readFileSync(mapFile)) : {};
 function pick(pat) {
-  const re = new RegExp(pat, 'i');
+  const re = new RegExp(pat, 'i'); // patrones flexibles: buscan en el nombre del producto
   const m = urls.filter(u => re.test(u.split('/').slice(-2, -1)[0] || ''));
   return m.sort((a, b) => a.length - b.length)[0];
 }
