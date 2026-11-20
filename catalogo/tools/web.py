@@ -35,11 +35,11 @@ json.dump({'items': items, 'secciones': secs}, open(f'{OUT}/catalogo.json', 'w',
 promos = sorted(os.listdir(f'{OUT}/promos'))
 json.dump(promos, open(f'{OUT}/promos/lista.json', 'w'))
 
-WA = '18094378927'
+WA = '18496538927'
 page = '''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Catálogo ainshop tecnology · Hikvision</title><meta name="description" content="Catálogo completo Hikvision: cámaras, videoporteros, control de acceso, alarmas, redes. Cotice por WhatsApp. Santo Domingo, RD.">
-<style>:root{--n:#0a162e;--r:#c8102e;--g:#5a6270;--bg:#f3f5f9}*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--n)}
-header{background:linear-gradient(135deg,#0a162e,#183462);color:#fff;padding:22px 16px}header h1{margin:0;font-size:24px}header p{margin:6px 0 0;color:#cfd8e8;font-size:14px}
+<style>:root{--n:#0F3460;--r:#EA580C;--g:#5a6270;--bg:#F7F8FA}*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--n)}
+header{background:linear-gradient(135deg,#0F3460,#16467e);color:#fff;padding:22px 16px}header h1{margin:0;font-size:24px}header p{margin:6px 0 0;color:#cfd8e8;font-size:14px}
 .bar{position:sticky;top:0;background:#fff;padding:10px 16px;box-shadow:0 2px 8px #0001;display:flex;gap:8px;flex-wrap:wrap;z-index:2}
 input,select{font:inherit;padding:10px 12px;border:1px solid #d5dbe5;border-radius:10px;flex:1;min-width:180px}
 main{max-width:1200px;margin:0 auto;padding:16px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
@@ -73,3 +73,14 @@ q.oninput=draw;sec.onchange=draw;
 open(f'{OUT}/index.html', 'w', encoding='utf-8').write(page)
 open(f'{OUT}/_headers', 'w').write('/promos/*\n  Access-Control-Allow-Origin: *\n/catalogo.json\n  Access-Control-Allow-Origin: *\n')
 print('modelos en la web:', len(items), '· con foto:', sum(1 for i in items if i['f']), '· promos:', len(promos))
+
+# Hoja para Meta Commerce Manager (columnas del documento de Marco). Precio vacío: lo completa Marco.
+import csv
+BASE_URL = os.environ.get('CATALOGO_URL', 'https://CAMBIAR-POR-LA-DIRECCION-DE-LA-WEB')
+with open(f'{BASE}/meta-catalogo.csv', 'w', newline='', encoding='utf-8') as fh:
+    w = csv.writer(fh); w.writerow(['id', 'title', 'description', 'availability', 'condition', 'price', 'link', 'image_link', 'brand', 'sale_price'])
+    for r in ROWS:
+        nom, desc, ideal = SEC.get(r['seccion'], [r['linea'], '', ''])
+        w.writerow([r['codigo'], f"{nom} Hikvision {r['modelo']}"[:150], f"{desc} Ideal para: {ideal}. Instalación profesional en Santo Domingo. Cotice por WhatsApp 849-653-8927.",
+                    'in stock', 'new', '', 'https://wa.me/18496538927', f"{BASE_URL}/promos/{r['codigo']}.jpg", 'Hikvision', ''])
+print('meta-catalogo.csv:', len(ROWS), 'filas')

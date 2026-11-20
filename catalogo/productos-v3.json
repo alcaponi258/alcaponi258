@@ -3,28 +3,25 @@
 "modelo": "ColorVu",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-001",
-"tipo": "linea"
+"codigo": "HK-001"
 },
 {
 "modelo": "Pro Series",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-002",
-"tipo": "linea"
+"codigo": "HK-002"
 },
 {
 "modelo": "Value Series",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-003",
-"tipo": "linea"
+"codigo": "HK-003"
 },
 {
 "modelo": "DS-2CD2xx7G3",
@@ -62,28 +59,25 @@
 "modelo": "Cable-Free Series",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-008",
-"tipo": "linea"
+"codigo": "HK-008"
 },
 {
 "modelo": "TandemVu",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-009",
-"tipo": "linea"
+"codigo": "HK-009"
 },
 {
 "modelo": "DS-2CD1xx1G0",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-oficial/DS_2CD1xx7G3_H_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-010",
-"tipo": "similar"
+"codigo": "HK-010"
 },
 {
 "modelo": "DS-2CE12/72KF3TP-DLS",
@@ -105,19 +99,17 @@
 "modelo": "Eco Series",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-013",
-"tipo": "linea"
+"codigo": "HK-013"
 },
 {
 "modelo": "CFS08/SP8",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-oficial/CFS04.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/IP-Products/wireless-cameras/aov-solarvu-4g-camera/ds-2cfsp8-d-4g/",
-"codigo": "HK-014",
-"tipo": "similar"
+"codigo": "HK-014"
 },
 {
 "modelo": "CFS04/SP4",
@@ -131,64 +123,177 @@
 "modelo": "ColorVu 3.0 DV0T",
 "seccion": "1.1 Channel CCTV",
 "linea": "Cámaras de seguridad para hogares y negocios",
-"foto": "img-linea/1.1-05.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-016",
-"tipo": "linea"
+"codigo": "HK-016"
+},
+{
+"modelo": "CFS08",
+"seccion": "1.1 Channel CCTV",
+"linea": "Cámaras de seguridad para hogares y negocios",
+"foto": null,
+"web": null,
+"codigo": "HK-017"
+},
+{
+"modelo": "CFSP8-D",
+"seccion": "1.1 Channel CCTV",
+"linea": "Cámaras de seguridad para hogares y negocios",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/IP-Products/wireless-cameras/aov-solarvu-4g-camera/ds-2cfsp8-d-4g/",
+"codigo": "HK-018"
+},
+{
+"modelo": "CFS04",
+"seccion": "1.1 Channel CCTV",
+"linea": "Cámaras de seguridad para hogares y negocios",
+"foto": "img-oficial/CFS04.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/wireless-cameras/aov-solarvu-4g-camera/ds-2cfs04-4g/",
+"codigo": "HK-019"
+},
+{
+"modelo": "CFMP8-D",
+"seccion": "1.1 Channel CCTV",
+"linea": "Cámaras de seguridad para hogares y negocios",
+"foto": "img-oficial/CFMP8_D.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/wireless-cameras/aov-solarvu-4g-camera/ds-2cfmp8-d-4g/",
+"codigo": "HK-020"
 },
 {
 "modelo": "TandemVu Series",
 "seccion": "1.2 Project CCTV",
 "linea": "Cámaras para proyectos",
-"foto": "img-oficial/SEC_1_2_Project_CCTV_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-017",
-"tipo": "similar"
+"codigo": "HK-021"
 },
 {
 "modelo": "DeepinView Series",
 "seccion": "1.2 Project CCTV",
 "linea": "Cámaras para proyectos",
-"foto": "img-oficial/SEC_1_2_Project_CCTV_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-018",
-"tipo": "similar"
+"codigo": "HK-022"
 },
 {
 "modelo": "DeepinViewX",
 "seccion": "1.2 Project CCTV",
 "linea": "Cámaras para proyectos",
-"foto": "img-oficial/SEC_1_2_Project_CCTV_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-019",
-"tipo": "similar"
+"codigo": "HK-023"
 },
 {
 "modelo": "DeepinView",
 "seccion": "1.2 Project CCTV",
 "linea": "Cámaras para proyectos",
-"foto": "img-oficial/SEC_1_2_Project_CCTV_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-020",
-"tipo": "similar"
+"codigo": "HK-024"
 },
 {
 "modelo": "Ultra Series",
 "seccion": "1.2 Project CCTV",
 "linea": "Cámaras para proyectos",
-"foto": "img-oficial/SEC_1_2_Project_CCTV_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-021",
-"tipo": "similar"
+"codigo": "HK-025"
 },
 {
 "modelo": "Special Series",
 "seccion": "1.2 Project CCTV",
 "linea": "Cámaras para proyectos",
-"foto": "img-oficial/SEC_1_2_Project_CCTV_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-022",
-"tipo": "similar"
+"codigo": "HK-026"
+},
+{
+"modelo": "Ultra X1",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-027"
+},
+{
+"modelo": "Ultra X3",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-028"
+},
+{
+"modelo": "Ultra X6",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-029"
+},
+{
+"modelo": "Ultra X7",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-030"
+},
+{
+"modelo": "TandemVu PTZ",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-031"
+},
+{
+"modelo": "DeepinView PTZ",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-032"
+},
+{
+"modelo": "Pro Series PTZ",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-033"
+},
+{
+"modelo": "Value Series PTZ",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-034"
+},
+{
+"modelo": "PanoVu",
+"seccion": "1.2 Project CCTV",
+"linea": "Cámaras para proyectos",
+"foto": null,
+"web": null,
+"codigo": "HK-035"
+},
+{
+"modelo": "DS-2CD6F82G0-S",
+"seccion": "1.3 PDA Overview",
+"linea": "Terminales portátiles (PDA)",
+"foto": "img-oficial/DS_2CD6F82G0_S.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Special-Series/ds-2cd6f82g0-s/",
+"codigo": "HK-036"
+},
+{
+"modelo": "DS-2CD3386G2-ISU/PT",
+"seccion": "1.3 PDA Overview",
+"linea": "Terminales portátiles (PDA)",
+"foto": null,
+"web": null,
+"codigo": "HK-037"
 },
 {
 "modelo": "DS-2CD3386G2",
@@ -196,7 +301,7 @@
 "linea": "Terminales portátiles (PDA)",
 "foto": "img-oficial/DS_2CD3386G2.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Ultra-Series-SmartIP-/ds-2cd3386g2-is-u-/",
-"codigo": "HK-023"
+"codigo": "HK-038"
 },
 {
 "modelo": "DS-2CD6F82G0",
@@ -204,7 +309,7 @@
 "linea": "Terminales portátiles (PDA)",
 "foto": "img-oficial/DS_2CD6F82G0.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Special-Series/ds-2cd6f82g0-s/",
-"codigo": "HK-024"
+"codigo": "HK-039"
 },
 {
 "modelo": "DS-MDS005(B)",
@@ -212,7 +317,7 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/DS_MDS005_B_.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mds005/",
-"codigo": "HK-025"
+"codigo": "HK-040"
 },
 {
 "modelo": "DS-MDS001(B)",
@@ -220,7 +325,7 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/DS_MDS001_B_.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mds001/",
-"codigo": "HK-026"
+"codigo": "HK-041"
 },
 {
 "modelo": "DS-MDS004",
@@ -228,7 +333,7 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/DS_MDS004.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mds004/",
-"codigo": "HK-027"
+"codigo": "HK-042"
 },
 {
 "modelo": "DS-MCW40C(C)",
@@ -236,34 +341,31 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/DS_MCW40C_C_.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mcw40c/",
-"codigo": "HK-028"
+"codigo": "HK-043"
 },
 {
 "modelo": "DS-MCW409/SE/N2/GLE",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/DS_MCW40C_C_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-029",
-"tipo": "similar"
+"codigo": "HK-044"
 },
 {
 "modelo": "DS-MCW409/N2/GLE",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/DS_MCW40C_C_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-030",
-"tipo": "similar"
+"codigo": "HK-045"
 },
 {
 "modelo": "DS-MCW409/K5/5G",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/DS_MCW40C_C_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-031",
-"tipo": "similar"
+"codigo": "HK-046"
 },
 {
 "modelo": "DS-MCW417",
@@ -271,34 +373,31 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/DS_MCW417.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mcw417/",
-"codigo": "HK-032"
+"codigo": "HK-047"
 },
 {
 "modelo": "DS-MCW407(D)",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/DS_MCW40C_C_.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mcw407/",
-"codigo": "HK-033",
-"tipo": "similar"
+"codigo": "HK-048"
 },
 {
 "modelo": "DS-MCW407(A)",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/DS_MCW40C_C_.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/body-worn-camera-series/ds-mcw407/",
-"codigo": "HK-034",
-"tipo": "similar"
+"codigo": "HK-049"
 },
 {
 "modelo": "DS-MCW406",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/DS_MCW40C_C_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-035",
-"tipo": "similar"
+"codigo": "HK-050"
 },
 {
 "modelo": "iDS-MCD402",
@@ -306,25 +405,23 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/iDS_MCD402.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/portable-camera-series/ids-mcd402-e/",
-"codigo": "HK-036"
+"codigo": "HK-051"
 },
 {
 "modelo": "iDS-MCD202",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/iDS_MCD20M.png",
+"foto": null,
 "web": null,
-"codigo": "HK-037",
-"tipo": "similar"
+"codigo": "HK-052"
 },
 {
 "modelo": "iDS-MCD212",
 "seccion": "1.4 Portable",
 "linea": "Cámaras corporales y equipos portátiles",
-"foto": "img-oficial/iDS_MCD20M.png",
+"foto": null,
 "web": null,
-"codigo": "HK-038",
-"tipo": "similar"
+"codigo": "HK-053"
 },
 {
 "modelo": "iDS-MCD20M",
@@ -332,34 +429,55 @@
 "linea": "Cámaras corporales y equipos portátiles",
 "foto": "img-oficial/iDS_MCD20M.png",
 "web": "https://www.hikvision.com/en/products/portable-products/portable-products/portable-camera-series/ids-mcd20m/",
-"codigo": "HK-039"
+"codigo": "HK-054"
+},
+{
+"modelo": "iDS-MCD402-E",
+"seccion": "1.4 Portable",
+"linea": "Cámaras corporales y equipos portátiles",
+"foto": "img-oficial/iDS_MCD402_E.png",
+"web": "https://www.hikvision.com/en/products/portable-products/portable-products/portable-camera-series/ids-mcd402-e/",
+"codigo": "HK-055"
+},
+{
+"modelo": "iDS-MCD212-E",
+"seccion": "1.4 Portable",
+"linea": "Cámaras corporales y equipos portátiles",
+"foto": null,
+"web": null,
+"codigo": "HK-056"
+},
+{
+"modelo": "iDS-MCD20M/PIR",
+"seccion": "1.4 Portable",
+"linea": "Cámaras corporales y equipos portátiles",
+"foto": "img-oficial/iDS_MCD20M.png",
+"web": "https://www.hikvision.com/en/products/portable-products/portable-products/portable-camera-series/ids-mcd20m/",
+"codigo": "HK-057"
 },
 {
 "modelo": "HeatPro Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-040",
-"tipo": "linea"
+"codigo": "HK-058"
 },
 {
 "modelo": "Bullet Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-041",
-"tipo": "linea"
+"codigo": "HK-059"
 },
 {
 "modelo": "PTZ Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-042",
-"tipo": "linea"
+"codigo": "HK-060"
 },
 {
 "modelo": "TD41xx/DS-2TD42xx",
@@ -367,7 +485,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD42xx.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/DS-2TD4136T-9/",
-"codigo": "HK-043"
+"codigo": "HK-061"
 },
 {
 "modelo": "TD2628T",
@@ -375,7 +493,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD2628T.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/ds-2td2628t-3-qa/",
-"codigo": "HK-044"
+"codigo": "HK-062"
 },
 {
 "modelo": "TD1228T",
@@ -383,7 +501,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD1228T.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/ds-2td1228t-3-qa/",
-"codigo": "HK-045"
+"codigo": "HK-063"
 },
 {
 "modelo": "DS-2TD21xxT/HM-TD2168T",
@@ -391,7 +509,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/HM_TD2168T.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Bullet-series/ds-2td2166t-25/",
-"codigo": "HK-046"
+"codigo": "HK-064"
 },
 {
 "modelo": "DS-2TD26xxT/HM-TD26xxT",
@@ -399,16 +517,15 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD26xxT.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/ds-2td2617t-6-pa/",
-"codigo": "HK-047"
+"codigo": "HK-065"
 },
 {
 "modelo": "Explosion-Proof Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-048",
-"tipo": "linea"
+"codigo": "HK-066"
 },
 {
 "modelo": "DS-2TD25xxT(C)/HM-TD2568T",
@@ -416,16 +533,15 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD25xxT_C_.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Special-industry-series/ds-2td2528t-7-q/",
-"codigo": "HK-049"
+"codigo": "HK-067"
 },
 {
 "modelo": "Box Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-050",
-"tipo": "linea"
+"codigo": "HK-068"
 },
 {
 "modelo": "TD2618/HM-TD2628",
@@ -433,7 +549,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD2618.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td2618-7-g0-t1a/",
-"codigo": "HK-051"
+"codigo": "HK-069"
 },
 {
 "modelo": "TD1218/HM-TD1228",
@@ -441,7 +557,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD1218.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1218-2-g0-t1a/",
-"codigo": "HK-052"
+"codigo": "HK-070"
 },
 {
 "modelo": "DS-2TD2608",
@@ -449,7 +565,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD2608.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/ds-2td2608-2-qa/",
-"codigo": "HK-053"
+"codigo": "HK-071"
 },
 {
 "modelo": "DS-2TXS2628",
@@ -457,7 +573,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TXS2628.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/Bullet-series/ds-2txs2628-7p-qa-glt-ch30s80/",
-"codigo": "HK-054"
+"codigo": "HK-072"
 },
 {
 "modelo": "TD1018",
@@ -465,7 +581,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD1018.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1018-1-qr/",
-"codigo": "HK-055"
+"codigo": "HK-073"
 },
 {
 "modelo": "TD1017",
@@ -473,7 +589,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD1017.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1017-2-qw-hs121/",
-"codigo": "HK-056"
+"codigo": "HK-074"
 },
 {
 "modelo": "TD2168",
@@ -481,7 +597,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD2168.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/Bullet-series/hm-td2168-5-g0-t1y/",
-"codigo": "HK-057"
+"codigo": "HK-075"
 },
 {
 "modelo": "TD26xx",
@@ -489,16 +605,15 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD26xx.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/Bullet-series/ds-2td2636-10/",
-"codigo": "HK-058"
+"codigo": "HK-076"
 },
 {
 "modelo": "TD3840",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-059",
-"tipo": "linea"
+"codigo": "HK-077"
 },
 {
 "modelo": "DS-2TD45xx",
@@ -506,7 +621,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD45xx.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/ds-2td4568-25a4-w/",
-"codigo": "HK-060"
+"codigo": "HK-078"
 },
 {
 "modelo": "DS-2TD46xx",
@@ -514,7 +629,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD46xx.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/ds-2td4638-25a4-w/",
-"codigo": "HK-061"
+"codigo": "HK-079"
 },
 {
 "modelo": "TD71xx",
@@ -522,25 +637,23 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD71xx.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/hm-td7168-55-w/",
-"codigo": "HK-062"
+"codigo": "HK-080"
 },
 {
 "modelo": "TD95xx",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-063",
-"tipo": "linea"
+"codigo": "HK-081"
 },
 {
 "modelo": "TD96xx",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-064",
-"tipo": "linea"
+"codigo": "HK-082"
 },
 {
 "modelo": "TD3028T",
@@ -548,7 +661,7 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD3028T.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Fixed-series/hm-td3028t-2-q-b-/",
-"codigo": "HK-065"
+"codigo": "HK-083"
 },
 {
 "modelo": "TD63xx",
@@ -556,25 +669,23 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/TD63xx.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/hm-td6338-50c4l-g0-t2y/",
-"codigo": "HK-066"
+"codigo": "HK-084"
 },
 {
 "modelo": "TD70xx",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-067",
-"tipo": "linea"
+"codigo": "HK-085"
 },
 {
 "modelo": "TD81xx",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/DS-2TD8166-75C2F-V2/",
-"codigo": "HK-068",
-"tipo": "linea"
+"codigo": "HK-086"
 },
 {
 "modelo": "TD41xxT/DS-2TD42xxT",
@@ -582,34 +693,31 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD42xxT.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/DS-2TD4136T-9/",
-"codigo": "HK-069"
+"codigo": "HK-087"
 },
 {
 "modelo": "TD3128T",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-070",
-"tipo": "linea"
+"codigo": "HK-088"
 },
 {
 "modelo": "HF310/HF610",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-071",
-"tipo": "linea"
+"codigo": "HK-089"
 },
 {
 "modelo": "QF310/QF610",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-072",
-"tipo": "linea"
+"codigo": "HK-090"
 },
 {
 "modelo": "DS-2TD65xxT",
@@ -617,88 +725,79 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/DS_2TD65xxT.png",
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Special-industry-series/ds-2td6567t-25h4lx-w/",
-"codigo": "HK-073"
+"codigo": "HK-091"
 },
 {
 "modelo": "DS-2TD62xxT",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-oficial/DS_2TD65xxT.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/DS-2TD6266T-25H2L/",
-"codigo": "HK-074",
-"tipo": "similar"
+"codigo": "HK-092"
 },
 {
 "modelo": "TD58xxT",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-075",
-"tipo": "linea"
+"codigo": "HK-093"
 },
 {
 "modelo": "Camera Mini Eco series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-076",
-"tipo": "linea"
+"codigo": "HK-094"
 },
 {
 "modelo": "Acoustic Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-077",
-"tipo": "linea"
+"codigo": "HK-095"
 },
 {
 "modelo": "Fire-fighting Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-078",
-"tipo": "linea"
+"codigo": "HK-096"
 },
 {
 "modelo": "G series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-079",
-"tipo": "linea"
+"codigo": "HK-097"
 },
 {
 "modelo": "Intrinsically Safe Series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-080",
-"tipo": "linea"
+"codigo": "HK-098"
 },
 {
 "modelo": "Binocular SP series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-081",
-"tipo": "linea"
+"codigo": "HK-099"
 },
 {
 "modelo": "Pyrometer PD1 series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-082",
-"tipo": "linea"
+"codigo": "HK-100"
 },
 {
 "modelo": "PS0 series",
@@ -706,43 +805,39 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/PS0.png",
 "web": "https://www.hikvision.com/en/products/premises-distribution-system/ups/online-ups/ds-ups06k-r-tjl/",
-"codigo": "HK-083"
+"codigo": "HK-101"
 },
 {
 "modelo": "FE0 series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-084",
-"tipo": "linea"
+"codigo": "HK-102"
 },
 {
 "modelo": "Flow Meter FC00 series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-085",
-"tipo": "linea"
+"codigo": "HK-103"
 },
 {
 "modelo": "Flow Meter FU00 series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-086",
-"tipo": "linea"
+"codigo": "HK-104"
 },
 {
 "modelo": "Level Meter LRG10 series",
 "seccion": "1.7 Thermal-Security Protection",
 "linea": "Cámaras térmicas",
-"foto": "img-linea/1.7-13.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-087",
-"tipo": "linea"
+"codigo": "HK-105"
 },
 {
 "modelo": "PD2 series",
@@ -750,106 +845,423 @@
 "linea": "Cámaras térmicas",
 "foto": "img-oficial/PD2.png",
 "web": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-home/ds-pd201mc-wa/",
-"codigo": "HK-088"
+"codigo": "HK-106"
+},
+{
+"modelo": "HM-TD2618",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD2618.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td2618-7-g0-t1a/",
+"codigo": "HK-107"
+},
+{
+"modelo": "HM-TD2628",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td2628-3-qa/",
+"codigo": "HK-108"
+},
+{
+"modelo": "HM-TD1218",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD1218.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1218-2-g0-t1a/",
+"codigo": "HK-109"
+},
+{
+"modelo": "HM-TD1228",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1228-2-qa/",
+"codigo": "HK-110"
+},
+{
+"modelo": "HM-TD1017",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD1017.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1017-2-qw-hs121/",
+"codigo": "HK-111"
+},
+{
+"modelo": "HM-TD1018",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD1018.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td1018-1-qr/",
+"codigo": "HK-112"
+},
+{
+"modelo": "HM-TD2168",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD2168.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/Bullet-series/hm-td2168-5-g0-t1y/",
+"codigo": "HK-113"
+},
+{
+"modelo": "HM-TD26xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD26xx.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/Bullet-series/ds-2td2636-10/",
+"codigo": "HK-114"
+},
+{
+"modelo": "HM-TD3840",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-115"
+},
+{
+"modelo": "HM-TD41xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/DS-2TD4136T-9/",
+"codigo": "HK-116"
+},
+{
+"modelo": "DS-2TD42xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/DS_2TD42xx.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/ds-2td4228t-10-w/",
+"codigo": "HK-117"
+},
+{
+"modelo": "HM-TD70xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-118"
+},
+{
+"modelo": "HM-TD71xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD71xx.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/hm-td7168-55-w/",
+"codigo": "HK-119"
+},
+{
+"modelo": "HM-TD63xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD63xx.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/hm-td6338-50c4l-g0-t2y/",
+"codigo": "HK-120"
+},
+{
+"modelo": "HM-TD81xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/PT-series/DS-2TD8166-75C2F-V2/",
+"codigo": "HK-121"
+},
+{
+"modelo": "HM-TD95xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-122"
+},
+{
+"modelo": "HM-TD96xx",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-123"
+},
+{
+"modelo": "HM-TD2628T",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Security-thermal-cameras/heatpro-series/hm-td2628t-3-qa/",
+"codigo": "HK-124"
+},
+{
+"modelo": "HM-TD41xxT",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/DS-2TD4136T-9/",
+"codigo": "HK-125"
+},
+{
+"modelo": "DS-2TD42xxT",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/DS_2TD42xxT.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/PT-series/ds-2td4228t-10-w/",
+"codigo": "HK-126"
+},
+{
+"modelo": "DS-2TD21xxT",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Bullet-series/ds-2td2166t-25/",
+"codigo": "HK-127"
+},
+{
+"modelo": "HM-TD2168T",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD2168T.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Bullet-series/hm-td2168t-5-g0-t1y/",
+"codigo": "HK-128"
+},
+{
+"modelo": "DS-2TD25xxT(C)",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/DS_2TD25xxT_C_.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Special-industry-series/ds-2td2528t-7-q/",
+"codigo": "HK-129"
+},
+{
+"modelo": "HM-TD2568T",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD2568T.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Special-industry-series/ds-2td2568t-5-g0-t1y/",
+"codigo": "HK-130"
+},
+{
+"modelo": "HM-TD2Ax7T",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-131"
+},
+{
+"modelo": "HM-TD2A67H1",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-132"
+},
+{
+"modelo": "HM-TD3028T",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/HM_TD3028T.png",
+"web": "https://www.hikvision.com/en/products/Thermal-Products/Thermography-thermal-cameras/Fixed-series/hm-td3028t-2-q-b-/",
+"codigo": "HK-133"
+},
+{
+"modelo": "HM-TD3128T",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-134"
+},
+{
+"modelo": "HM-TD58xxT",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-135"
+},
+{
+"modelo": "QF310",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-136"
+},
+{
+"modelo": "QF610",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-137"
+},
+{
+"modelo": "HF310",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-138"
+},
+{
+"modelo": "HF610",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-139"
+},
+{
+"modelo": "BX20",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-140"
+},
+{
+"modelo": "PS0",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/PS0.png",
+"web": "https://www.hikvision.com/en/products/premises-distribution-system/ups/online-ups/ds-ups06k-r-tjl/",
+"codigo": "HK-141"
+},
+{
+"modelo": "PD1",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/PD1.png",
+"web": "https://www.hikvision.com/en/products/Alarm-Products/wired-intrusion-alarm/i-o-devices/ds-pd1-eb/",
+"codigo": "HK-142"
+},
+{
+"modelo": "PS2",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/PS2.png",
+"web": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-home/ds-ps201-we/",
+"codigo": "HK-143"
+},
+{
+"modelo": "PD2",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/PD2.png",
+"web": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-home/ds-pd201mc-wa/",
+"codigo": "HK-144"
+},
+{
+"modelo": "FC00",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": "img-oficial/FC00.png",
+"web": "https://www.hikvision.com/en/products/onboard-security/accessory/electronic-accessory/ae-ifc00/",
+"codigo": "HK-145"
+},
+{
+"modelo": "FU00",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-146"
+},
+{
+"modelo": "LRG10",
+"seccion": "1.7 Thermal-Security Protection",
+"linea": "Cámaras térmicas",
+"foto": null,
+"web": null,
+"codigo": "HK-147"
 },
 {
 "modelo": "HikCentral Professional",
 "seccion": "1.11 Sensing",
 "linea": "Sensores especiales",
-"foto": "img-oficial/SEC_1_11_Sensing_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-089",
-"tipo": "similar"
+"codigo": "HK-148"
 },
 {
 "modelo": "SMW1701S-C",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-090",
-"tipo": "linea"
+"codigo": "HK-149"
 },
 {
 "modelo": "SMW1701S-C/HW",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-091",
-"tipo": "linea"
+"codigo": "HK-150"
 },
 {
 "modelo": "SMW1701S-C/PS",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-092",
-"tipo": "linea"
+"codigo": "HK-151"
 },
 {
 "modelo": "Metal Detector 9 Series",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-093",
-"tipo": "linea"
+"codigo": "HK-152"
 },
 {
 "modelo": "Inspection System CA6040 Series",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-094",
-"tipo": "linea"
+"codigo": "HK-153"
 },
 {
 "modelo": "CA100100D-TG",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-095",
-"tipo": "linea"
+"codigo": "HK-154"
 },
 {
 "modelo": "CA100100D-TG5",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-096",
-"tipo": "linea"
+"codigo": "HK-155"
 },
 {
 "modelo": "CA150180D",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-097",
-"tipo": "linea"
+"codigo": "HK-156"
 },
 {
 "modelo": "CA180180D",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-098",
-"tipo": "linea"
+"codigo": "HK-157"
 },
 {
 "modelo": "Metal Detector 3 Series",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-099",
-"tipo": "linea"
+"codigo": "HK-158"
 },
 {
 "modelo": "SC5030S-H2CVL",
@@ -857,7 +1269,7 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SC5030S_H2CVL.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc5030s-h2cvl/",
-"codigo": "HK-100"
+"codigo": "HK-159"
 },
 {
 "modelo": "SC6040",
@@ -865,7 +1277,7 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SC6040.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc6040s-h4cvl/",
-"codigo": "HK-101"
+"codigo": "HK-160"
 },
 {
 "modelo": "SC6550 Series",
@@ -873,7 +1285,7 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SC6550.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc6550s-h4cvl/",
-"codigo": "HK-102"
+"codigo": "HK-161"
 },
 {
 "modelo": "SC100100 Series",
@@ -881,7 +1293,7 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SC100100.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc100100d-h4cvl/",
-"codigo": "HK-103"
+"codigo": "HK-162"
 },
 {
 "modelo": "SL300T",
@@ -889,25 +1301,23 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SL300T.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/specialized-security-detection-products/isd-sl300t/",
-"codigo": "HK-104"
+"codigo": "HK-163"
 },
 {
 "modelo": "ST204D-HDV",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-105",
-"tipo": "linea"
+"codigo": "HK-164"
 },
 {
 "modelo": "SE311H",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-106",
-"tipo": "linea"
+"codigo": "HK-165"
 },
 {
 "modelo": "SG5030 Series",
@@ -915,7 +1325,7 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SG5030.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sg5030s-cvl/",
-"codigo": "HK-107"
+"codigo": "HK-166"
 },
 {
 "modelo": "SG6040SA",
@@ -923,7 +1333,7 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SG6040SA.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sg6040sa-2cl/",
-"codigo": "HK-108"
+"codigo": "HK-167"
 },
 {
 "modelo": "SG6550SA Series",
@@ -931,70 +1341,191 @@
 "linea": "Rayos X para seguridad",
 "foto": "img-oficial/SG6550SA.png",
 "web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sg6550sa-2cl/",
-"codigo": "HK-109"
+"codigo": "HK-168"
 },
 {
 "modelo": "SMH002",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-110",
-"tipo": "linea"
+"codigo": "HK-169"
 },
 {
 "modelo": "SMH003",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-111",
-"tipo": "linea"
+"codigo": "HK-170"
 },
 {
 "modelo": "Metal Detector 1 Series",
 "seccion": "1.12 X-Ray",
 "linea": "Rayos X para seguridad",
-"foto": "img-linea/1.12-21.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-112",
-"tipo": "linea"
+"codigo": "HK-171"
+},
+{
+"modelo": "ISD-SC5030S-H2CVL",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/ISD_SC5030S_H2CVL.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc5030s-h2cvl/",
+"codigo": "HK-172"
+},
+{
+"modelo": "SG5030",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/SG5030.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sg5030s-cvl/",
+"codigo": "HK-173"
+},
+{
+"modelo": "SG6550SA",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/SG6550SA.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sg6550sa-2cl/",
+"codigo": "HK-174"
+},
+{
+"modelo": "SC6550",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/SC6550.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc6550s-h4cvl/",
+"codigo": "HK-175"
+},
+{
+"modelo": "SC100100",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/SC100100.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-sc100100d-h4cvl/",
+"codigo": "HK-176"
+},
+{
+"modelo": "CA6040",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/CA6040.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/x-ray-security-inspection-systems/isd-ca6040s-c/",
+"codigo": "HK-177"
+},
+{
+"modelo": "ISD-CA100100D-TG",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-178"
+},
+{
+"modelo": "ISD-CA100100D-TG5",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-179"
+},
+{
+"modelo": "ISD-CA150180D",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-180"
+},
+{
+"modelo": "ISD-CA180180D",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-181"
+},
+{
+"modelo": "ISD-SMW1701S-C",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-182"
+},
+{
+"modelo": "ISD-SE311H",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-183"
+},
+{
+"modelo": "ISD-ST204D-HDV",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-184"
+},
+{
+"modelo": "ISD-SL300T",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": "img-oficial/ISD_SL300T.png",
+"web": "https://www.hikvision.com/en/products/security-inspection/security-inspection-products/specialized-security-detection-products/isd-sl300t/",
+"codigo": "HK-185"
+},
+{
+"modelo": "ISD-SMH002",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-186"
+},
+{
+"modelo": "NP-SMH003",
+"seccion": "1.12 X-Ray",
+"linea": "Rayos X para seguridad",
+"foto": null,
+"web": null,
+"codigo": "HK-187"
 },
 {
 "modelo": "Antennas Multi-port Series",
 "seccion": "2.2 Networking-Wireless Bridge",
 "linea": "Enlaces inalámbricos",
-"foto": "img-oficial/SEC_2_2_Networking_Wireless_Bridge_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-113",
-"tipo": "similar"
+"codigo": "HK-188"
 },
 {
 "modelo": "Industrial Elevator series",
 "seccion": "2.2 Networking-Wireless Bridge",
 "linea": "Enlaces inalámbricos",
-"foto": "img-oficial/SEC_2_2_Networking_Wireless_Bridge_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-114",
-"tipo": "similar"
+"codigo": "HK-189"
 },
 {
 "modelo": "Hik-Connect",
 "seccion": "2.4 Networking- SOHO Networking",
 "linea": "Redes para hogar y oficina pequeña",
-"foto": "img-oficial/SEC_2_4_Networking_SOHO_Networking_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-115",
-"tipo": "similar"
+"codigo": "HK-190"
 },
 {
 "modelo": "Hik-Partner Pro",
 "seccion": "2.4 Networking- SOHO Networking",
 "linea": "Redes para hogar y oficina pequeña",
-"foto": "img-oficial/SEC_2_4_Networking_SOHO_Networking_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-116",
-"tipo": "similar"
+"codigo": "HK-191"
 },
 {
 "modelo": "DS-3T1506HP-EI-UPS",
@@ -1002,151 +1533,255 @@
 "linea": "Energía solar para equipos",
 "foto": "img-oficial/DS_3T1506HP_EI_UPS.png",
 "web": "https://www.hikvision.com/en/products/transmission/Network-Switches/industrial-switch/ds-3t1506hp-ei-ups/",
-"codigo": "HK-117"
+"codigo": "HK-192"
 },
 {
 "modelo": "CCTV Series",
 "seccion": "2.7 Monitor & Energy Storage",
 "linea": "Monitores y respaldo de energía",
-"foto": "img-oficial/SEC_2_7_Monitor_Energy_Storage_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-118",
-"tipo": "similar"
+"codigo": "HK-193"
 },
 {
 "modelo": "Alarm Cables FTTH Series",
 "seccion": "2.8 PDS",
 "linea": "Cableado estructurado",
-"foto": "img-oficial/SEC_2_8_PDS_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-119",
-"tipo": "similar"
+"codigo": "HK-194"
 },
 {
 "modelo": "T AcuSearch Ultra series",
 "seccion": "3.1 DVR",
 "linea": "Grabadores DVR",
-"foto": "img-oficial/SEC_3_1_DVR_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-120",
-"tipo": "similar"
+"codigo": "HK-195"
 },
 {
 "modelo": "T-2K Value Series",
 "seccion": "3.1 DVR",
 "linea": "Grabadores DVR",
-"foto": "img-oficial/SEC_3_1_DVR_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-121",
-"tipo": "similar"
+"codigo": "HK-196"
+},
+{
+"modelo": "DS-71XXHGH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-197"
+},
+{
+"modelo": "DS-72XXHGH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-198"
+},
+{
+"modelo": "DS-71XXHGH-M/T-2K",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-199"
+},
+{
+"modelo": "DS-72XXHQH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-200"
+},
+{
+"modelo": "DS-71XXHQH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-201"
+},
+{
+"modelo": "DS-72XXHQH-S/XT",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-202"
+},
+{
+"modelo": "DS-72XXHUH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-203"
+},
+{
+"modelo": "DS-72XXHUH-S/XT/PXT",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-204"
+},
+{
+"modelo": "DS-72XXHTH-M/XT",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-205"
+},
+{
+"modelo": "DS-73XXHQH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-206"
+},
+{
+"modelo": "DS-81XXHQH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-207"
+},
+{
+"modelo": "DS-90XXHQH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-208"
+},
+{
+"modelo": "DS-73XXHUH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-209"
+},
+{
+"modelo": "DS-81XXHUH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-210"
+},
+{
+"modelo": "DS-90XXHUH-M",
+"seccion": "3.1 DVR",
+"linea": "Grabadores DVR",
+"foto": null,
+"web": null,
+"codigo": "HK-211"
 },
 {
 "modelo": "NVR Value Series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-122",
-"tipo": "similar"
+"codigo": "HK-212"
 },
 {
 "modelo": "Pro Series Ultra series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-123",
-"tipo": "similar"
+"codigo": "HK-213"
 },
 {
 "modelo": "Cable-Free series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-124",
-"tipo": "similar"
+"codigo": "HK-214"
 },
 {
 "modelo": "K series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-125",
-"tipo": "similar"
+"codigo": "HK-215"
 },
 {
 "modelo": "AcuSense I series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-126",
-"tipo": "similar"
+"codigo": "HK-216"
 },
 {
 "modelo": "AcuSense M series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-127",
-"tipo": "similar"
+"codigo": "HK-217"
 },
 {
 "modelo": "Super H series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-128",
-"tipo": "similar"
+"codigo": "HK-218"
 },
 {
 "modelo": "VPro series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-129",
-"tipo": "similar"
+"codigo": "HK-219"
 },
 {
 "modelo": "S series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-130",
-"tipo": "similar"
+"codigo": "HK-220"
 },
 {
 "modelo": "Super series",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-131",
-"tipo": "similar"
+"codigo": "HK-221"
 },
 {
 "modelo": "RAID10",
 "seccion": "3.2 NVR",
 "linea": "Grabadores NVR",
-"foto": "img-oficial/SEC_3_2_NVR_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-132",
-"tipo": "similar"
+"codigo": "HK-222"
 },
 {
 "modelo": "AcuSeek DeepinMind Pro Series",
 "seccion": "3.3 AcuSeek",
 "linea": "AcuSeek: búsqueda inteligente de video",
-"foto": "img-linea/3.3-34.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-133",
-"tipo": "linea"
+"codigo": "HK-223"
 },
 {
 "modelo": "DS-76xxNXI-I2/VPro",
@@ -1154,7 +1789,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_76xxNXI_I2.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-i2-s/",
-"codigo": "HK-134"
+"codigo": "HK-224"
 },
 {
 "modelo": "DS-77xxNXI-I4/VPro",
@@ -1162,7 +1797,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_77xxNXI_I4.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7732nxi-i4-s/",
-"codigo": "HK-135"
+"codigo": "HK-225"
 },
 {
 "modelo": "DS-96xxNXI-I8/VPro",
@@ -1170,7 +1805,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_96xxNXI_I8.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-9616nxi-i8-s/",
-"codigo": "HK-136"
+"codigo": "HK-226"
 },
 {
 "modelo": "DS-96xxNXI-I16/VPro",
@@ -1178,7 +1813,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_96xxNXI_I16.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/vpro-series/ds-9632nxi-i16-vpro/",
-"codigo": "HK-137"
+"codigo": "HK-227"
 },
 {
 "modelo": "iDS-67xxNXI",
@@ -1186,7 +1821,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/iDS_67xxNXI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-6708nxi-s/",
-"codigo": "HK-138"
+"codigo": "HK-228"
 },
 {
 "modelo": "iDS-96xxNXI",
@@ -1194,7 +1829,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/iDS_96xxNXI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-9616nxi-i8-s/",
-"codigo": "HK-139"
+"codigo": "HK-229"
 },
 {
 "modelo": "iDS-76xxNXI",
@@ -1202,7 +1837,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/iDS_76xxNXI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616nxi-k1/",
-"codigo": "HK-140"
+"codigo": "HK-230"
 },
 {
 "modelo": "iDS-77xxNXI",
@@ -1210,7 +1845,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/iDS_77xxNXI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7732nxi-i4-s/",
-"codigo": "HK-141"
+"codigo": "HK-231"
 },
 {
 "modelo": "DS-IX2128-C1U/XP",
@@ -1218,7 +1853,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_IX2128_C1U.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-ix2128-c1u-xp/",
-"codigo": "HK-142"
+"codigo": "HK-232"
 },
 {
 "modelo": "DS-IX2256-C1U/XP",
@@ -1226,43 +1861,39 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_IX2256_C1U.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-ix2256-c1u-xp/",
-"codigo": "HK-143"
+"codigo": "HK-233"
 },
 {
 "modelo": "AcuSeek upto 128",
 "seccion": "3.3 AcuSeek",
 "linea": "AcuSeek: búsqueda inteligente de video",
-"foto": "img-linea/3.3-34.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-144",
-"tipo": "linea"
+"codigo": "HK-234"
 },
 {
 "modelo": "AcuSeek",
 "seccion": "3.3 AcuSeek",
 "linea": "AcuSeek: búsqueda inteligente de video",
-"foto": "img-linea/3.3-34.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-145",
-"tipo": "linea"
+"codigo": "HK-235"
 },
 {
 "modelo": "AcuSeek with AcuSense camera",
 "seccion": "3.3 AcuSeek",
 "linea": "AcuSeek: búsqueda inteligente de video",
-"foto": "img-linea/3.3-34.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-146",
-"tipo": "linea"
+"codigo": "HK-236"
 },
 {
 "modelo": "VPro Series",
 "seccion": "3.3 AcuSeek",
 "linea": "AcuSeek: búsqueda inteligente de video",
-"foto": "img-linea/3.3-34.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-147",
-"tipo": "linea"
+"codigo": "HK-237"
 },
 {
 "modelo": "DS-76xxNXI-K1/VPro",
@@ -1270,7 +1901,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_76xxNXI_K1.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616nxi-k1/",
-"codigo": "HK-148"
+"codigo": "HK-238"
 },
 {
 "modelo": "DS-76xxNXI-K2/VPro",
@@ -1278,7 +1909,7 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_76xxNXI_K2.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-k2-d-/",
-"codigo": "HK-149"
+"codigo": "HK-239"
 },
 {
 "modelo": "DS-77xxNXI-K4/VPro",
@@ -1286,43 +1917,135 @@
 "linea": "AcuSeek: búsqueda inteligente de video",
 "foto": "img-oficial/DS_77xxNXI_K4.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7716nxi-k4-d-/",
-"codigo": "HK-150"
+"codigo": "HK-240"
+},
+{
+"modelo": "DS-76xxNXI-K1",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_76xxNXI_K1.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616nxi-k1/",
+"codigo": "HK-241"
+},
+{
+"modelo": "DS-76xxNXI-K2",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_76xxNXI_K2.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-k2-d-/",
+"codigo": "HK-242"
+},
+{
+"modelo": "DS-77xxNXI-K4",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_77xxNXI_K4.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7716nxi-k4-d-/",
+"codigo": "HK-243"
+},
+{
+"modelo": "DS-76xxNXI-I2",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_76xxNXI_I2.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-i2-s/",
+"codigo": "HK-244"
+},
+{
+"modelo": "DS-77xxNXI-I4",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_77xxNXI_I4.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7732nxi-i4-s/",
+"codigo": "HK-245"
+},
+{
+"modelo": "DS-96xxNXI-I8",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_96xxNXI_I8.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-9616nxi-i8-s/",
+"codigo": "HK-246"
+},
+{
+"modelo": "DS-96xxNXI-I16",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/DS_96xxNXI_I16.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/vpro-series/ds-9632nxi-i16-vpro/",
+"codigo": "HK-247"
+},
+{
+"modelo": "iDS-67xxNXI-P1",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/iDS_67xxNXI_P1.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge-acuseek/ids-6716nxi-p1/",
+"codigo": "HK-248"
+},
+{
+"modelo": "iDS-76xxNXI-P2",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/iDS_76xxNXI_P2.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge-acuseek/ids-7608nxi-p2/",
+"codigo": "HK-249"
+},
+{
+"modelo": "iDS-77xxNXI-P4",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/iDS_77xxNXI_P4.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge-acuseek/ids-7716nxi-p4/",
+"codigo": "HK-250"
+},
+{
+"modelo": "iDS-96xxNXI-P8",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/iDS_96xxNXI_P8.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge-acuseek/ids-9664nxi-p8/",
+"codigo": "HK-251"
+},
+{
+"modelo": "iDS-96xxNXI-P16",
+"seccion": "3.3 AcuSeek",
+"linea": "AcuSeek: búsqueda inteligente de video",
+"foto": "img-oficial/iDS_96xxNXI_P16.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge-acuseek/ids-9632nxi-p16/",
+"codigo": "HK-252"
 },
 {
 "modelo": "NXI-S DeepinMind M Series",
 "seccion": "3.4 DeepinMind Edge",
 "linea": "DeepinMind Edge: IA en el grabador",
-"foto": "img-linea/3.4-35.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-151",
-"tipo": "linea"
+"codigo": "HK-253"
 },
 {
 "modelo": "DeepinMind Super H Series",
 "seccion": "3.4 DeepinMind Edge",
 "linea": "DeepinMind Edge: IA en el grabador",
-"foto": "img-linea/3.4-35.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-152",
-"tipo": "linea"
+"codigo": "HK-254"
 },
 {
 "modelo": "Fusion AI series",
 "seccion": "3.4 DeepinMind Edge",
 "linea": "DeepinMind Edge: IA en el grabador",
-"foto": "img-linea/3.4-35.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-153",
-"tipo": "linea"
+"codigo": "HK-255"
 },
 {
 "modelo": "AF Fusion AI series",
 "seccion": "3.4 DeepinMind Edge",
 "linea": "DeepinMind Edge: IA en el grabador",
-"foto": "img-linea/3.4-35.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-154",
-"tipo": "linea"
+"codigo": "HK-256"
 },
 {
 "modelo": "S24R/AF",
@@ -1330,16 +2053,95 @@
 "linea": "DeepinMind Edge: IA en el grabador",
 "foto": "img-oficial/S24R.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge-fusion-ai/ids-96128nxi-s24r-af/",
-"codigo": "HK-155"
+"codigo": "HK-257"
 },
 {
 "modelo": "DeepinMind Edge",
 "seccion": "3.4 DeepinMind Edge",
 "linea": "DeepinMind Edge: IA en el grabador",
-"foto": "img-linea/3.4-35.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-156",
-"tipo": "linea"
+"codigo": "HK-258"
+},
+{
+"modelo": "67xxNXI-M",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": "img-oficial/67xxNXI_M.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-6716nxi-m1-x/",
+"codigo": "HK-259"
+},
+{
+"modelo": "76xxNXI-M",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": "img-oficial/76xxNXI_M.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-7616nxi-m2-x/",
+"codigo": "HK-260"
+},
+{
+"modelo": "96xxNXI-M",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": "img-oficial/96xxNXI_M.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-9616nxi-m8-x/",
+"codigo": "HK-261"
+},
+{
+"modelo": "96xxxNXI-H",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": "img-oficial/96xxxNXI_H.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-96128nxi-h24r/",
+"codigo": "HK-262"
+},
+{
+"modelo": "67xxNXI-M1/AF",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": null,
+"web": null,
+"codigo": "HK-263"
+},
+{
+"modelo": "96xxNXI-M8/AF",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": null,
+"web": null,
+"codigo": "HK-264"
+},
+{
+"modelo": "67xxxNXI-S/AF",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": null,
+"web": null,
+"codigo": "HK-265"
+},
+{
+"modelo": "96xxxNXI-S24R/AF",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": null,
+"web": null,
+"codigo": "HK-266"
+},
+{
+"modelo": "67xxNXI-S",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": "img-oficial/67xxNXI_S.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-6708nxi-s/",
+"codigo": "HK-267"
+},
+{
+"modelo": "67xxNXI-S/T",
+"seccion": "3.4 DeepinMind Edge",
+"linea": "DeepinMind Edge: IA en el grabador",
+"foto": "img-oficial/67xxNXI_S.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-edge/ids-6708nxi-s/",
+"codigo": "HK-268"
 },
 {
 "modelo": "DS-IF20",
@@ -1347,7 +2149,7 @@
 "linea": "DeepinMind Center: IA central",
 "foto": "img-oficial/DS_IF20.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-if2006-c1u-x/",
-"codigo": "HK-157"
+"codigo": "HK-269"
 },
 {
 "modelo": "DS-IX20",
@@ -1355,16 +2157,15 @@
 "linea": "DeepinMind Center: IA central",
 "foto": "img-oficial/DS_IX20.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-ix2001-a7u-lx-b-/",
-"codigo": "HK-158"
+"codigo": "HK-270"
 },
 {
 "modelo": "DS-IX200x-A7U/LX",
 "seccion": "3.5 DeepinMind Center",
 "linea": "DeepinMind Center: IA central",
-"foto": "img-oficial/DS_IX20.png",
+"foto": null,
 "web": null,
-"codigo": "HK-159",
-"tipo": "similar"
+"codigo": "HK-271"
 },
 {
 "modelo": "DS-IE20xx-SU/BA/Kx",
@@ -1372,123 +2173,143 @@
 "linea": "DeepinMind Center: IA central",
 "foto": "img-oficial/DS_IE20xx_SU.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-ie2016-su-ba-k2/",
-"codigo": "HK-160"
+"codigo": "HK-272"
 },
 {
 "modelo": "DeepinMind Center",
 "seccion": "3.5 DeepinMind Center",
 "linea": "DeepinMind Center: IA central",
-"foto": "img-linea/3.5-36.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-161",
-"tipo": "linea"
+"codigo": "HK-273"
+},
+{
+"modelo": "DS-IX20xxx-C1U/XP",
+"seccion": "3.5 DeepinMind Center",
+"linea": "DeepinMind Center: IA central",
+"foto": null,
+"web": null,
+"codigo": "HK-274"
+},
+{
+"modelo": "DS-IE20xx-SU/BA",
+"seccion": "3.5 DeepinMind Center",
+"linea": "DeepinMind Center: IA central",
+"foto": "img-oficial/DS_IE20xx_SU.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-ie2016-su-ba-k2/",
+"codigo": "HK-275"
+},
+{
+"modelo": "DS-IF20xx-C1U",
+"seccion": "3.5 DeepinMind Center",
+"linea": "DeepinMind Center: IA central",
+"foto": "img-oficial/DS_IF20xx_C1U.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/deepinmind-intelligence/deepinmind-server/ds-if2006-c1u-x/",
+"codigo": "HK-276"
 },
 {
 "modelo": "DS-A80624SI",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A80624SI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/storage-cvr/ds-a80624si/",
-"codigo": "HK-162"
+"codigo": "HK-277"
 },
 {
 "modelo": "DS-A80636SI",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A80636SI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/storage-cvr/ds-a80636si/",
-"codigo": "HK-163"
+"codigo": "HK-278"
 },
 {
 "modelo": "DS-A80648SI",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A80648SI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/storage-cvr/ds-a80648si/",
-"codigo": "HK-164"
+"codigo": "HK-279"
 },
 {
 "modelo": "DS-A82124SI",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A82124SI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/storage-cvr/ds-a82124si/",
-"codigo": "HK-165"
+"codigo": "HK-280"
 },
 {
 "modelo": "DS-A82148SI",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A82148SI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/storage-cvr/ds-a82148si/",
-"codigo": "HK-166"
+"codigo": "HK-281"
 },
 {
 "modelo": "DS-A82172SI",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A82172SI.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/storage-cvr/ds-a82172si/",
-"codigo": "HK-167"
+"codigo": "HK-282"
 },
 {
 "modelo": "DS-A81024S-ICVS",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A81024S_ICVS.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/Cluster-Storage/ds-a81024s-icvs/",
-"codigo": "HK-168"
+"codigo": "HK-283"
 },
 {
 "modelo": "DS-A81048S-ICVS",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A81048S_ICVS.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/Cluster-Storage/ds-a81048s-icvs/",
-"codigo": "HK-169"
+"codigo": "HK-284"
 },
 {
 "modelo": "DS-A83024S-ICVS",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A83024S_ICVS.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/Cluster-Storage/ds-a83024s-icvs/",
-"codigo": "HK-170"
+"codigo": "HK-285"
 },
 {
 "modelo": "DS-A83048S-ICVS",
-"seccion": "5.0 system, and refreshed UI, delivering high-performance,",
-"linea": "5.0 system, and refreshed UI, delivering high-performance,",
+"seccion": "3.6 Network Storage",
+"linea": "Almacenamiento en red",
 "foto": "img-oficial/DS_A83048S_ICVS.png",
 "web": "https://www.hikvision.com/en/products/IP-Products/Storage/Cluster-Storage/ds-a83048s-icvs/",
-"codigo": "HK-171"
+"codigo": "HK-286"
 },
 {
 "modelo": "LED Controller P Series",
 "seccion": "4.1 LED",
 "linea": "Pantallas LED",
-"foto": "img-linea/4.1-39.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-172",
-"tipo": "linea"
+"codigo": "HK-287"
 },
 {
 "modelo": "C30S",
 "seccion": "4.1 LED",
 "linea": "Pantallas LED",
-"foto": "img-linea/4.1-39.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-173",
-"tipo": "linea"
+"codigo": "HK-288"
 },
 {
 "modelo": "C66S",
 "seccion": "4.1 LED",
 "linea": "Pantallas LED",
-"foto": "img-linea/4.1-39.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-174",
-"tipo": "linea"
+"codigo": "HK-289"
 },
 {
 "modelo": "C80N",
@@ -1496,142 +2317,223 @@
 "linea": "Pantallas LED",
 "foto": "img-oficial/C80N.png",
 "web": "https://www.hikvision.com/en/products/display-and-control/control-and-decode/kvm---distributed-controllers/ds-c80n-01hi/",
-"codigo": "HK-175"
+"codigo": "HK-290"
 },
 {
 "modelo": "Fixed LED C Series",
 "seccion": "4.1 LED",
 "linea": "Pantallas LED",
-"foto": "img-linea/4.1-39.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-176",
-"tipo": "linea"
+"codigo": "HK-291"
 },
 {
 "modelo": "V Series",
 "seccion": "4.1 LED",
 "linea": "Pantallas LED",
-"foto": "img-linea/4.1-39.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-177",
-"tipo": "linea"
+"codigo": "HK-292"
+},
+{
+"modelo": "Aries Pro",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": null,
+"web": null,
+"codigo": "HK-293"
+},
+{
+"modelo": "Solid Plus",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": null,
+"web": null,
+"codigo": "HK-294"
+},
+{
+"modelo": "LumiUltra",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": null,
+"web": null,
+"codigo": "HK-295"
+},
+{
+"modelo": "LumiFit",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": null,
+"web": null,
+"codigo": "HK-296"
+},
+{
+"modelo": "LumiSquare",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": null,
+"web": null,
+"codigo": "HK-297"
+},
+{
+"modelo": "69(C)",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": "img-oficial/69_C_.png",
+"web": "https://www.hikvision.com/en/products/IP-Products/cctv-accessories/brackets/ds-1269zj/",
+"codigo": "HK-298"
+},
+{
+"modelo": "69UDI-U(C)",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": null,
+"web": null,
+"codigo": "HK-299"
+},
+{
+"modelo": "1100KI",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": "img-oficial/1100KI.png",
+"web": "https://www.hikvision.com/en/products/display-and-control/control-and-decode/keyboards/ds-1100ki-c-/",
+"codigo": "HK-300"
+},
+{
+"modelo": "1200KI",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": "img-oficial/1200KI.png",
+"web": "https://www.hikvision.com/en/products/display-and-control/control-and-decode/keyboards/DS-1200KI/",
+"codigo": "HK-301"
+},
+{
+"modelo": "1600KI",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": "img-oficial/1600KI.png",
+"web": "https://www.hikvision.com/en/products/display-and-control/controllers/Keyboards/ds-1600ki-b-/",
+"codigo": "HK-302"
+},
+{
+"modelo": "1005KI",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": "img-oficial/1005KI.png",
+"web": "https://www.hikvision.com/en/products/display-and-control/controllers/Keyboards/DS-1005KI/",
+"codigo": "HK-303"
+},
+{
+"modelo": "1006KI",
+"seccion": "4.1 LED",
+"linea": "Pantallas LED",
+"foto": "img-oficial/1006KI.png",
+"web": "https://www.hikvision.com/en/products/display-and-control/control-and-decode/keyboards/DS-1006KI/",
+"codigo": "HK-304"
 },
 {
 "modelo": "B3 Series",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-178",
-"tipo": "similar"
+"codigo": "HK-305"
 },
 {
 "modelo": "Value G3 Series",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-179",
-"tipo": "similar"
+"codigo": "HK-306"
 },
 {
 "modelo": "FP Series",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-180",
-"tipo": "similar"
+"codigo": "HK-307"
 },
 {
 "modelo": "Performance G2 Series",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-181",
-"tipo": "similar"
+"codigo": "HK-308"
 },
 {
 "modelo": "B2L Series",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-182",
-"tipo": "similar"
+"codigo": "HK-309"
 },
 {
 "modelo": "Select G1 Series",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-183",
-"tipo": "similar"
+"codigo": "HK-310"
 },
 {
 "modelo": "DS-D5F10CB/BH",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-184",
-"tipo": "similar"
+"codigo": "HK-311"
 },
 {
 "modelo": "DS-D5F16CB/BV",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-185",
-"tipo": "similar"
+"codigo": "HK-312"
 },
 {
 "modelo": "DS-D5F22CB/BH",
 "seccion": "4.2 IFPD-Overview",
 "linea": "Pantallas interactivas",
-"foto": "img-oficial/SEC_4_2_IFPD_Overview_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-186",
-"tipo": "similar"
+"codigo": "HK-313"
 },
 {
 "modelo": "DS-D5A65RB/A3",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-oficial/DS_D5B75RB.png",
+"foto": null,
 "web": null,
-"codigo": "HK-187",
-"tipo": "similar"
+"codigo": "HK-314"
 },
 {
 "modelo": "DS-UVC-X12",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-linea/4.3-41.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-188",
-"tipo": "linea"
+"codigo": "HK-315"
 },
 {
 "modelo": "DS-D5SC3B",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-oficial/DS_D5B75RB.png",
+"foto": null,
 "web": null,
-"codigo": "HK-189",
-"tipo": "similar"
+"codigo": "HK-316"
 },
 {
 "modelo": "DS-D5F10CB/BV",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-oficial/DS_D5B75RB.png",
+"foto": null,
 "web": null,
-"codigo": "HK-190",
-"tipo": "similar"
+"codigo": "HK-317"
 },
 {
 "modelo": "DS-D5B75RB/EP",
@@ -1639,16 +2541,15 @@
 "linea": "Salas de videoconferencia",
 "foto": "img-oficial/DS_D5B75RB.png",
 "web": "https://www.hikvision.com/en/products/interactive-flat-panel-display/interactive-flat-panels/performance-series/ds-d5b75rb-d/",
-"codigo": "HK-191"
+"codigo": "HK-318"
 },
 {
 "modelo": "DS-UVC-X28-B",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-linea/4.3-41.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-192",
-"tipo": "linea"
+"codigo": "HK-319"
 },
 {
 "modelo": "DS-D5C86RB/B2L",
@@ -1656,133 +2557,135 @@
 "linea": "Salas de videoconferencia",
 "foto": "img-oficial/DS_D5C86RB.png",
 "web": "https://www.hikvision.com/en/products/interactive-flat-panel-display/interactive-flat-panels/ultra-series/ds-d5c86rb-a/",
-"codigo": "HK-193"
+"codigo": "HK-320"
 },
 {
 "modelo": "DS-UVC-P28",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-linea/4.3-41.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-194",
-"tipo": "linea"
+"codigo": "HK-321"
 },
 {
 "modelo": "DS-UAC-S3D",
 "seccion": "4.3 IFPD-Conferencing Solution",
 "linea": "Salas de videoconferencia",
-"foto": "img-linea/4.3-41.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-195",
-"tipo": "linea"
+"codigo": "HK-322"
 },
 {
 "modelo": "Schedule Program DL Series",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-196",
-"tipo": "similar"
+"codigo": "HK-323"
 },
 {
 "modelo": "DS-D60xxUN-DL",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-197",
-"tipo": "similar"
+"codigo": "HK-324"
 },
 {
 "modelo": "Thickness DP Series",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-198",
-"tipo": "similar"
+"codigo": "HK-325"
 },
 {
 "modelo": "DS-D60xxUN-DP",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-199",
-"tipo": "similar"
+"codigo": "HK-326"
 },
 {
 "modelo": "DS-D60xxUH-DP",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-200",
-"tipo": "similar"
+"codigo": "HK-327"
 },
 {
 "modelo": "DS-D60xxUT-D/S",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-201",
-"tipo": "similar"
+"codigo": "HK-328"
 },
 {
 "modelo": "Thickness Non-Touch Series",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-202",
-"tipo": "similar"
+"codigo": "HK-329"
 },
 {
 "modelo": "DS-D60xxUN-D/S",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-203",
-"tipo": "similar"
+"codigo": "HK-330"
 },
 {
 "modelo": "Box DS-D60E-B Touch Series",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-204",
-"tipo": "similar"
+"codigo": "HK-331"
 },
 {
 "modelo": "Wall-Mounted Series",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-205",
-"tipo": "similar"
+"codigo": "HK-332"
 },
 {
 "modelo": "Floor-Standing Series",
 "seccion": "4.4 IFPD-Digital Signage",
 "linea": "Señalización digital",
-"foto": "img-oficial/SEC_4_4_IFPD_Digital_Signage_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-206",
-"tipo": "similar"
+"codigo": "HK-333"
+},
+{
+"modelo": "DS-D60E-B",
+"seccion": "4.4 IFPD-Digital Signage",
+"linea": "Señalización digital",
+"foto": null,
+"web": null,
+"codigo": "HK-334"
+},
+{
+"modelo": "HikMedio",
+"seccion": "4.4 IFPD-Digital Signage",
+"linea": "Señalización digital",
+"foto": null,
+"web": null,
+"codigo": "HK-335"
 },
 {
 "modelo": "Wire KH6000 series",
 "seccion": "5.1 Intercom-IP Intercom & 2-Wire",
 "linea": "Videoporteros IP y 2 hilos",
-"foto": "img-linea/5.1-45.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-207",
-"tipo": "linea"
+"codigo": "HK-336"
 },
 {
 "modelo": "KH61 series",
@@ -1790,7 +2693,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KH61.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Value-Series/ds-kh6110-we1/",
-"codigo": "HK-208"
+"codigo": "HK-337"
 },
 {
 "modelo": "KH85 series",
@@ -1798,7 +2701,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KH85.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh8520-wte1/",
-"codigo": "HK-209"
+"codigo": "HK-338"
 },
 {
 "modelo": "KH83/KH63 series",
@@ -1806,16 +2709,15 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KH83.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh8350-te1/",
-"codigo": "HK-210"
+"codigo": "HK-339"
 },
 {
 "modelo": "Station DS-KM9503 KD96 series",
 "seccion": "5.1 Intercom-IP Intercom & 2-Wire",
 "linea": "Videoporteros IP y 2 hilos",
-"foto": "img-linea/5.1-45.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-211",
-"tipo": "linea"
+"codigo": "HK-340"
 },
 {
 "modelo": "KD94 series",
@@ -1823,7 +2725,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KD94.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kd9403-e6/",
-"codigo": "HK-212"
+"codigo": "HK-341"
 },
 {
 "modelo": "KD92 series",
@@ -1831,7 +2733,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KD92.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kd9203-e6/",
-"codigo": "HK-213"
+"codigo": "HK-342"
 },
 {
 "modelo": "KD8 series",
@@ -1839,7 +2741,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KD8.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8023-e6/",
-"codigo": "HK-214"
+"codigo": "HK-343"
 },
 {
 "modelo": "KV9 series",
@@ -1847,7 +2749,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KV9.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kv9503-wbe1/",
-"codigo": "HK-215"
+"codigo": "HK-344"
 },
 {
 "modelo": "KV8 series",
@@ -1855,7 +2757,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KV8.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kv8114-kwe1/",
-"codigo": "HK-216"
+"codigo": "HK-345"
 },
 {
 "modelo": "KV6 series",
@@ -1863,16 +2765,15 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KV6.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kv6114-e1/",
-"codigo": "HK-217"
+"codigo": "HK-346"
 },
 {
 "modelo": "Play KAD70 series",
 "seccion": "5.1 Intercom-IP Intercom & 2-Wire",
 "linea": "Videoporteros IP y 2 hilos",
-"foto": "img-linea/5.1-45.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-218",
-"tipo": "linea"
+"codigo": "HK-347"
 },
 {
 "modelo": "KH6 series",
@@ -1880,7 +2781,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KH6.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh6320-te1/",
-"codigo": "HK-219"
+"codigo": "HK-348"
 },
 {
 "modelo": "KD7 series",
@@ -1888,7 +2789,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KD7.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/2-wire-Series/2-wire-hd/ds-kd7003ey-s2/",
-"codigo": "HK-220"
+"codigo": "HK-349"
 },
 {
 "modelo": "KH7 series",
@@ -1896,7 +2797,7 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KH7.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/2-wire-Series/2-wire-hd/ds-kh7000ey-e2/",
-"codigo": "HK-221"
+"codigo": "HK-350"
 },
 {
 "modelo": "KAD70 series",
@@ -1904,7 +2805,183 @@
 "linea": "Videoporteros IP y 2 hilos",
 "foto": "img-oficial/KAD70.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/2-wire-Series/2-wire-ip/ds-kad706/",
-"codigo": "HK-222"
+"codigo": "HK-351"
+},
+{
+"modelo": "KD96",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KD96.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kd9633-e6/",
+"codigo": "HK-352"
+},
+{
+"modelo": "KD94",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KD94.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kd9403-e6/",
+"codigo": "HK-353"
+},
+{
+"modelo": "KD92",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KD92.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kd9203-e6/",
+"codigo": "HK-354"
+},
+{
+"modelo": "KD8",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KD8.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8023-e6/",
+"codigo": "HK-355"
+},
+{
+"modelo": "KV9",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KV9.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kv9503-wbe1/",
+"codigo": "HK-356"
+},
+{
+"modelo": "KV8",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KV8.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kv8114-kwe1/",
+"codigo": "HK-357"
+},
+{
+"modelo": "KV6",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KV6.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kv6114-e1/",
+"codigo": "HK-358"
+},
+{
+"modelo": "KC9",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KC9.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/control-panel/ds-kc9570-wte1-s/",
+"codigo": "HK-359"
+},
+{
+"modelo": "KH9",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH9.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-kh9510-wte1/",
+"codigo": "HK-360"
+},
+{
+"modelo": "KH85",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH85.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh8520-wte1/",
+"codigo": "HK-361"
+},
+{
+"modelo": "KH83",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH83.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh8350-te1/",
+"codigo": "HK-362"
+},
+{
+"modelo": "KH63",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH63.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh6320-te1/",
+"codigo": "HK-363"
+},
+{
+"modelo": "KH61",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH61.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Value-Series/ds-kh6110-we1/",
+"codigo": "HK-364"
+},
+{
+"modelo": "KH6000",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH6000.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Value-Series/ds-kh6000-e1/",
+"codigo": "HK-365"
+},
+{
+"modelo": "DS-KM9503",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/DS_KM9503.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ultra-series/ds-km9503/",
+"codigo": "HK-366"
+},
+{
+"modelo": "KD7",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KD7.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/2-wire-Series/2-wire-hd/ds-kd7003ey-s2/",
+"codigo": "HK-367"
+},
+{
+"modelo": "KH7",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH7.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/2-wire-Series/2-wire-hd/ds-kh7000ey-e2/",
+"codigo": "HK-368"
+},
+{
+"modelo": "KAD70",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KAD70.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/2-wire-Series/2-wire-ip/ds-kad706/",
+"codigo": "HK-369"
+},
+{
+"modelo": "KH6",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KH6.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kh6320-te1/",
+"codigo": "HK-370"
+},
+{
+"modelo": "PEA103/PEAP",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/PEA103.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Panel/ds-pea103-k1/",
+"codigo": "HK-371"
+},
+{
+"modelo": "KEB801X",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KEB801X.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Box/ds-keb801x-c/",
+"codigo": "HK-372"
+},
+{
+"modelo": "KEP311X",
+"seccion": "5.1 Intercom-IP Intercom & 2-Wire",
+"linea": "Videoporteros IP y 2 hilos",
+"foto": "img-oficial/KEP311X.png",
+"web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Station/ds-kep311x/",
+"codigo": "HK-373"
 },
 {
 "modelo": "DS-KS6170",
@@ -1912,7 +2989,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/DS_KS6170.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/sip-system/sip-server/ds-ks6170/",
-"codigo": "HK-223"
+"codigo": "HK-374"
 },
 {
 "modelo": "KP8000",
@@ -1920,7 +2997,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/KP8000.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/sip-system/sip-phone/ds-kp8000-he1/",
-"codigo": "HK-224"
+"codigo": "HK-375"
 },
 {
 "modelo": "KP6000",
@@ -1928,16 +3005,15 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/KP6000.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/sip-system/sip-phone/ds-kp6000-he1/",
-"codigo": "HK-225"
+"codigo": "HK-376"
 },
 {
 "modelo": "KP9000",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-226",
-"tipo": "linea"
+"codigo": "HK-377"
 },
 {
 "modelo": "DS-KS6150",
@@ -1945,7 +3021,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/DS_KS6150.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/sip-system/sip-server/ds-ks6150/",
-"codigo": "HK-227"
+"codigo": "HK-378"
 },
 {
 "modelo": "DS-KS6160",
@@ -1953,7 +3029,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/DS_KS6160.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/sip-system/sip-server/ds-ks6160/",
-"codigo": "HK-228"
+"codigo": "HK-379"
 },
 {
 "modelo": "PEA103/PEAP series",
@@ -1961,7 +3037,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/PEA103.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Panel/ds-pea103-k1/",
-"codigo": "HK-229"
+"codigo": "HK-380"
 },
 {
 "modelo": "KEB801X series",
@@ -1969,7 +3045,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/KEB801X.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Box/ds-keb801x-c/",
-"codigo": "HK-230"
+"codigo": "HK-381"
 },
 {
 "modelo": "KEP311X series",
@@ -1977,7 +3053,7 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/KEP311X.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Station/ds-kep311x/",
-"codigo": "HK-231"
+"codigo": "HK-382"
 },
 {
 "modelo": "DS-PEA4H-20",
@@ -1985,115 +3061,103 @@
 "linea": "Videoporteros 4 hilos, SIP y pánico",
 "foto": "img-oficial/DS_PEA4H_20.png",
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/emergency-intercom/Panic-Alarm-Master-Station/ds-pea4h-20/",
-"codigo": "HK-232"
+"codigo": "HK-383"
 },
 {
 "modelo": "DS-KIS302-P",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/Kits/hybrid-intercom-kit/ds-kis302-p/",
-"codigo": "HK-233",
-"tipo": "linea"
+"codigo": "HK-384"
 },
 {
 "modelo": "DS-KIS303-P",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis303-p/",
-"codigo": "HK-234",
-"tipo": "linea"
+"codigo": "HK-385"
 },
 {
 "modelo": "DS-KIS312-P(B)",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis312-p-b-/",
-"codigo": "HK-235",
-"tipo": "linea"
+"codigo": "HK-386"
 },
 {
 "modelo": "DS-KIS313-P(B)",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis313-p/",
-"codigo": "HK-236",
-"tipo": "linea"
+"codigo": "HK-387"
 },
 {
 "modelo": "DS-KIS202T",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis202t/",
-"codigo": "HK-237",
-"tipo": "linea"
+"codigo": "HK-388"
 },
 {
 "modelo": "DS-KIS203T",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis203t/",
-"codigo": "HK-238",
-"tipo": "linea"
+"codigo": "HK-389"
 },
 {
 "modelo": "DS-KIS212(B)",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis212/",
-"codigo": "HK-239",
-"tipo": "linea"
+"codigo": "HK-390"
 },
 {
 "modelo": "DS-KIS213(B)",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis213/",
-"codigo": "HK-240",
-"tipo": "linea"
+"codigo": "HK-391"
 },
 {
 "modelo": "DS-KIS204T",
 "seccion": "5.1 Intercom: 4-Wire & SIP & Panic Alarm",
 "linea": "Videoporteros 4 hilos, SIP y pánico",
-"foto": "img-linea/5.1-46.jpg",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Video-Intercom-Products/4-wire-series/4-wire-Kits/ds-kis204t/",
-"codigo": "HK-241",
-"tipo": "linea"
+"codigo": "HK-392"
 },
 {
 "modelo": "K2700X series",
 "seccion": "5.2 Access Control-Terminal & Controller & Reader",
 "linea": "Control de acceso",
-"foto": "img-linea/5.2-47.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-242",
-"tipo": "linea"
+"codigo": "HK-393"
 },
 {
 "modelo": "K262X series",
 "seccion": "5.2 Access Control-Terminal & Controller & Reader",
 "linea": "Control de acceso",
-"foto": "img-linea/5.2-47.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-243",
-"tipo": "linea"
+"codigo": "HK-394"
 },
 {
 "modelo": "K281X series",
 "seccion": "5.2 Access Control-Terminal & Controller & Reader",
 "linea": "Control de acceso",
-"foto": "img-linea/5.2-47.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-244",
-"tipo": "linea"
+"codigo": "HK-395"
 },
 {
 "modelo": "K1109",
@@ -2101,7 +3165,7 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K1109.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/ds-k1109db/",
-"codigo": "HK-245"
+"codigo": "HK-396"
 },
 {
 "modelo": "K1104",
@@ -2109,7 +3173,7 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K1104.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/DS-K1104/",
-"codigo": "HK-246"
+"codigo": "HK-397"
 },
 {
 "modelo": "K1108A",
@@ -2117,7 +3181,7 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K1108A.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/ds-k1108a/",
-"codigo": "HK-247"
+"codigo": "HK-398"
 },
 {
 "modelo": "K1105",
@@ -2125,16 +3189,15 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K1105.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/ds-k1105edb/",
-"codigo": "HK-248"
+"codigo": "HK-399"
 },
 {
 "modelo": "K1201A",
 "seccion": "5.2 Access Control-Terminal & Controller & Reader",
 "linea": "Control de acceso",
-"foto": "img-linea/5.2-47.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-249",
-"tipo": "linea"
+"codigo": "HK-400"
 },
 {
 "modelo": "K5033",
@@ -2142,7 +3205,7 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K5033.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/visitor-terminal/ds-k5033mw/",
-"codigo": "HK-250"
+"codigo": "HK-401"
 },
 {
 "modelo": "K6301",
@@ -2150,7 +3213,7 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K6301.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/payment-terminal/ds-k6301x-z/",
-"codigo": "HK-251"
+"codigo": "HK-402"
 },
 {
 "modelo": "K2210",
@@ -2158,7 +3221,7 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K2210.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/Controllers/elevator-controller/DS-K2210/",
-"codigo": "HK-252"
+"codigo": "HK-403"
 },
 {
 "modelo": "K2220",
@@ -2166,16 +3229,431 @@
 "linea": "Control de acceso",
 "foto": "img-oficial/K2220.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/Controllers/elevator-controller/ds-k2220x/",
-"codigo": "HK-253"
+"codigo": "HK-404"
 },
 {
 "modelo": "FM11RF08-M1",
 "seccion": "5.2 Access Control-Terminal & Controller & Reader",
 "linea": "Control de acceso",
-"foto": "img-linea/5.2-47.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-254",
-"tipo": "linea"
+"codigo": "HK-405"
+},
+{
+"modelo": "DS-K1T642",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T642.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t642e/",
+"codigo": "HK-406"
+},
+{
+"modelo": "DS-K1T670",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T670.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t670mx/",
+"codigo": "HK-407"
+},
+{
+"modelo": "DS-K1T673",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T673.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t673dx/",
+"codigo": "HK-408"
+},
+{
+"modelo": "DS-K1T680",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T680.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t680dg/",
+"codigo": "HK-409"
+},
+{
+"modelo": "DS-K1T681",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T681.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t681dbx/",
+"codigo": "HK-410"
+},
+{
+"modelo": "DS-K1T690",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T690.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t690mw/",
+"codigo": "HK-411"
+},
+{
+"modelo": "DS-K1T981",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T981.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/iris-recognition-terminal/ds-k1t981m/",
+"codigo": "HK-412"
+},
+{
+"modelo": "DS-K1T320",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T320.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t320ex/",
+"codigo": "HK-413"
+},
+{
+"modelo": "DS-K1T321",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T321.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t321ex/",
+"codigo": "HK-414"
+},
+{
+"modelo": "DS-K1T323",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T323.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t323mbwx-e1/",
+"codigo": "HK-415"
+},
+{
+"modelo": "DS-K1T343",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T343.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t343ewx/",
+"codigo": "HK-416"
+},
+{
+"modelo": "DS-K1T342",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T342.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t342dx/",
+"codigo": "HK-417"
+},
+{
+"modelo": "DS-K1T341C",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T341C.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t341cm/",
+"codigo": "HK-418"
+},
+{
+"modelo": "DS-K1T344",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T344.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/face-recognition-terminal/ds-k1t344ex-e1/",
+"codigo": "HK-419"
+},
+{
+"modelo": "DS-K1T201A",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T201A.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/fingerprint-terminal/ds-k1t201aef/",
+"codigo": "HK-420"
+},
+{
+"modelo": "DS-K1T510",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T510.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/card-terminal/ds-k1t510mbwx-e1/",
+"codigo": "HK-421"
+},
+{
+"modelo": "DS-K1T502",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T502.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/card-terminal/ds-k1t502dbwx/",
+"codigo": "HK-422"
+},
+{
+"modelo": "DS-K1T8003",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T8003.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/fingerprint-terminal/ds-k1t8003f/",
+"codigo": "HK-423"
+},
+{
+"modelo": "DS-K1T809",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T809.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/card-terminal/ds-k1t809ex/",
+"codigo": "HK-424"
+},
+{
+"modelo": "DS-K1T808",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T808.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/fingerprint-terminal/ds-k1t808mfx/",
+"codigo": "HK-425"
+},
+{
+"modelo": "DS-K1T805",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T805.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/card-terminal/ds-k1t805ex/",
+"codigo": "HK-426"
+},
+{
+"modelo": "DS-K1T807",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1T807.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/card-terminal/ds-k1t807ex-e1/",
+"codigo": "HK-427"
+},
+{
+"modelo": "DS-K2700X",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-428"
+},
+{
+"modelo": "DS-K262X",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-429"
+},
+{
+"modelo": "DS-K281X",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-430"
+},
+{
+"modelo": "DS-K5033",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K5033.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/visitor-terminal/ds-k5033mw/",
+"codigo": "HK-431"
+},
+{
+"modelo": "DS-K6301",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K6301.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/payment-terminal/ds-k6301x-z/",
+"codigo": "HK-432"
+},
+{
+"modelo": "DS-K2210",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K2210.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Controllers/elevator-controller/DS-K2210/",
+"codigo": "HK-433"
+},
+{
+"modelo": "DS-K2220",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K2220.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Controllers/elevator-controller/ds-k2220x/",
+"codigo": "HK-434"
+},
+{
+"modelo": "DS-K2M0012X",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K2M0012X.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/Modules/ds-k2m0012x/",
+"codigo": "HK-435"
+},
+{
+"modelo": "DS-K2M0016A",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K2M0016A.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Controllers/elevator-controller/DS-K2M0016A/",
+"codigo": "HK-436"
+},
+{
+"modelo": "DS-K1104",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1104.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/DS-K1104/",
+"codigo": "HK-437"
+},
+{
+"modelo": "DS-K1108A",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1108A.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/ds-k1108a/",
+"codigo": "HK-438"
+},
+{
+"modelo": "DS-K1105",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1105.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/ds-k1105edb/",
+"codigo": "HK-439"
+},
+{
+"modelo": "DS-K1201A",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-440"
+},
+{
+"modelo": "DS-K1109",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1109.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/Readers/Pro-Series/ds-k1109db/",
+"codigo": "HK-441"
+},
+{
+"modelo": "DS-K1F600U",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1F600U.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/Enrollers/ds-k1f600u-d6e/",
+"codigo": "HK-442"
+},
+{
+"modelo": "DS-K1F100",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1F100.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/Enrollers/ds-k1f100-d8e/",
+"codigo": "HK-443"
+},
+{
+"modelo": "DS-K1F820",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K1F820.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/Enrollers/ds-k1f820-f/",
+"codigo": "HK-444"
+},
+{
+"modelo": "DS-K4H250S",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K4H250S.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/magnetic-locks/ds-k4h250s/",
+"codigo": "HK-445"
+},
+{
+"modelo": "DS-K4T100",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K4T100.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/electric-bolt-lock/ds-k4t100/",
+"codigo": "HK-446"
+},
+{
+"modelo": "DS-K7P01",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-447"
+},
+{
+"modelo": "DS-K7P02",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-448"
+},
+{
+"modelo": "DS-K7P03A",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K7P03A.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/Push-Buttons/ds-k7p03a/",
+"codigo": "HK-449"
+},
+{
+"modelo": "DS-K7P04A",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K7P04A.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/Push-Buttons/ds-k7p04a/",
+"codigo": "HK-450"
+},
+{
+"modelo": "DS-K3DW211X",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-451"
+},
+{
+"modelo": "DS-K3DW210X",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K3DW210X.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/door-and-gate-opener/door-operator/ds-k3dw210x-pull/",
+"codigo": "HK-452"
+},
+{
+"modelo": "DS-K7M-AW50",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K7M_AW50.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/power-supply/ds-k7m-aw50/",
+"codigo": "HK-453"
+},
+{
+"modelo": "DS-K7M-AW24",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": "img-oficial/DS_K7M_AW24.png",
+"web": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/power-supply/ds-k7m-aw24/",
+"codigo": "HK-454"
+},
+{
+"modelo": "FM11RF08",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-455"
+},
+{
+"modelo": "DS-K7M101",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-456"
+},
+{
+"modelo": "DS-K7M102",
+"seccion": "5.2 Access Control-Terminal & Controller & Reader",
+"linea": "Control de acceso",
+"foto": null,
+"web": null,
+"codigo": "HK-457"
 },
 {
 "modelo": "DS-K6B961TX",
@@ -2183,7 +3661,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6B961TX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k6b961tx/",
-"codigo": "HK-255"
+"codigo": "HK-458"
 },
 {
 "modelo": "DS-K6B630TX",
@@ -2191,7 +3669,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6B630TX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k6b630tx/",
-"codigo": "HK-256"
+"codigo": "HK-459"
 },
 {
 "modelo": "DS-K6B530TX",
@@ -2199,7 +3677,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6B530TX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k6b530tx/",
-"codigo": "HK-257"
+"codigo": "HK-460"
 },
 {
 "modelo": "DS-K6B411TX",
@@ -2207,16 +3685,15 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6B411TX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k6b411tx/",
-"codigo": "HK-258"
+"codigo": "HK-461"
 },
 {
 "modelo": "DS-K3B211LX",
 "seccion": "5.2 Access Control-Speed Gate & Turnstile",
 "linea": "Torniquetes y puertas rápidas",
-"foto": "img-oficial/DS_K3BC430LX.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k3b211lx/",
-"codigo": "HK-259",
-"tipo": "similar"
+"codigo": "HK-462"
 },
 {
 "modelo": "DS-K3G530(L)X",
@@ -2224,7 +3701,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3G530_L_X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/tripod-turnstile/ds-k3g530x/",
-"codigo": "HK-260"
+"codigo": "HK-463"
 },
 {
 "modelo": "DS-K3G501C(L)X",
@@ -2232,7 +3709,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3G501C_L_X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/tripod-turnstile/ds-k3g501cx/",
-"codigo": "HK-261"
+"codigo": "HK-464"
 },
 {
 "modelo": "DS-K3G411C(L)X",
@@ -2240,7 +3717,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3G411C_L_X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/tripod-turnstile/ds-k3g411cx/",
-"codigo": "HK-262"
+"codigo": "HK-465"
 },
 {
 "modelo": "DS-K3G225(L)X",
@@ -2248,7 +3725,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3G225_L_X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/tripod-turnstile/ds-k3g225x/",
-"codigo": "HK-263"
+"codigo": "HK-466"
 },
 {
 "modelo": "DS-K3G200B(L)X",
@@ -2256,16 +3733,15 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3G200B_L_X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/tripod-turnstile/ds-k3g200bx/",
-"codigo": "HK-264"
+"codigo": "HK-467"
 },
 {
 "modelo": "DS-K6Y552X",
 "seccion": "5.2 Access Control-Speed Gate & Turnstile",
 "linea": "Torniquetes y puertas rápidas",
-"foto": "img-oficial/DS_K6B961TX.png",
+"foto": null,
 "web": null,
-"codigo": "HK-265",
-"tipo": "similar"
+"codigo": "HK-468"
 },
 {
 "modelo": "DS-K3Y411BX",
@@ -2273,16 +3749,15 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3Y411BX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/flap-barrier/ds-k3y411bx/",
-"codigo": "HK-266"
+"codigo": "HK-469"
 },
 {
 "modelo": "DS-K3Y220X",
 "seccion": "5.2 Access Control-Speed Gate & Turnstile",
 "linea": "Torniquetes y puertas rápidas",
-"foto": "img-oficial/DS_K3Y411BX.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/speed-gate-and-turnstiles/speed-gates/flap-barrier/ds-k3y220x/",
-"codigo": "HK-267",
-"tipo": "similar"
+"codigo": "HK-470"
 },
 {
 "modelo": "DS-K3GL606WX",
@@ -2290,7 +3765,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3GL606WX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/door-and-gate-opener/sliding-gate-opener/ds-k3gl606wx-we/",
-"codigo": "HK-268"
+"codigo": "HK-471"
 },
 {
 "modelo": "DS-K3H4210(L)X",
@@ -2298,7 +3773,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3H4210_L_X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/full-height-turnstile/ds-k3h4210x-120/",
-"codigo": "HK-269"
+"codigo": "HK-472"
 },
 {
 "modelo": "DS-K3H4411",
@@ -2306,7 +3781,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3H4411.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/full-height-turnstile/ds-k3h4411-120/",
-"codigo": "HK-270"
+"codigo": "HK-473"
 },
 {
 "modelo": "DS-K3BC430LX",
@@ -2314,7 +3789,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3BC430LX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-gates/ds-k3bc430lx/",
-"codigo": "HK-271"
+"codigo": "HK-474"
 },
 {
 "modelo": "DS-K6BC402X",
@@ -2322,7 +3797,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6BC402X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-gates/ds-k6bc402x/",
-"codigo": "HK-272"
+"codigo": "HK-475"
 },
 {
 "modelo": "DS-K6B961X",
@@ -2330,7 +3805,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6B961X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k6b961x/",
-"codigo": "HK-273"
+"codigo": "HK-476"
 },
 {
 "modelo": "DS-K6B653X",
@@ -2338,16 +3813,15 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6B653X.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-barriers/ds-k6b653x/",
-"codigo": "HK-274"
+"codigo": "HK-477"
 },
 {
 "modelo": "DS-K3B411B(L)X",
 "seccion": "5.2 Access Control-Speed Gate & Turnstile",
 "linea": "Torniquetes y puertas rápidas",
-"foto": "img-oficial/DS_K3BC430LX.png",
+"foto": null,
 "web": "https://www.hikvision.com/en/products/speed-gate-and-turnstiles/speed-gates/swing-barriers/ds-k3b411blx/",
-"codigo": "HK-275",
-"tipo": "similar"
+"codigo": "HK-478"
 },
 {
 "modelo": "DS-K3H4421",
@@ -2355,7 +3829,7 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K3H4421.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/full-height-turnstile/ds-k3h4421-120/",
-"codigo": "HK-276"
+"codigo": "HK-479"
 },
 {
 "modelo": "DS-K6BC402TX",
@@ -2363,133 +3837,135 @@
 "linea": "Torniquetes y puertas rápidas",
 "foto": "img-oficial/DS_K6BC402TX.png",
 "web": "https://www.hikvision.com/en/products/Access-Control-Products/speed-gate-and-turnstiles/swing-gates/ds-k6bc402tx/",
-"codigo": "HK-277"
+"codigo": "HK-480"
 },
 {
 "modelo": "Panel AX PRO Series",
 "seccion": "5.3 Alarm",
 "linea": "Alarmas AX PRO y AX HOME",
-"foto": "img-oficial/SEC_5_3_Alarm_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-278",
-"tipo": "similar"
+"codigo": "HK-481"
 },
 {
 "modelo": "Panel AX HOME Series",
 "seccion": "5.3 Alarm",
 "linea": "Alarmas AX PRO y AX HOME",
-"foto": "img-oficial/SEC_5_3_Alarm_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-279",
-"tipo": "similar"
+"codigo": "HK-482"
 },
 {
 "modelo": "AX Hybrid PRO Series",
 "seccion": "5.3 Alarm",
 "linea": "Alarmas AX PRO y AX HOME",
-"foto": "img-oficial/SEC_5_3_Alarm_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-280",
-"tipo": "similar"
+"codigo": "HK-483"
+},
+{
+"modelo": "AX HOME",
+"seccion": "5.3 Alarm",
+"linea": "Alarmas AX PRO y AX HOME",
+"foto": null,
+"web": null,
+"codigo": "HK-484"
+},
+{
+"modelo": "AX Hybrid PRO",
+"seccion": "5.3 Alarm",
+"linea": "Alarmas AX PRO y AX HOME",
+"foto": null,
+"web": null,
+"codigo": "HK-485"
 },
 {
 "modelo": "Interlinked Series",
 "seccion": "5.4 Fire Alarm-Wired Fire Alarm",
 "linea": "Alarma contra incendio",
-"foto": "img-oficial/SEC_5_4_Fire_Alarm_Wired_Fire_Alarm_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-281",
-"tipo": "similar"
+"codigo": "HK-486"
 },
 {
 "modelo": "Interlinked Kit Series",
 "seccion": "5.4 Fire Alarm-Wired Fire Alarm",
 "linea": "Alarma contra incendio",
-"foto": "img-oficial/SEC_5_4_Fire_Alarm_Wired_Fire_Alarm_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-282",
-"tipo": "similar"
+"codigo": "HK-487"
 },
 {
 "modelo": "Fusion Series",
 "seccion": "5.4 Fire Alarm-Wired Fire Alarm",
 "linea": "Alarma contra incendio",
-"foto": "img-oficial/SEC_5_4_Fire_Alarm_Wired_Fire_Alarm_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-283",
-"tipo": "similar"
+"codigo": "HK-488"
 },
 {
 "modelo": "AcuSeek enabled",
 "seccion": "6.2 Hik-Connect Team Mode AI Application",
 "linea": "Hik-Connect Team con IA",
-"foto": "img-linea/6.2-59.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-284",
-"tipo": "linea"
+"codigo": "HK-489"
 },
 {
 "modelo": "HikCentral Lite",
 "seccion": "6.5 Software- HikCentral Lite",
 "linea": "HikCentral Lite",
-"foto": "img-oficial/SEC_6_5_Software_HikCentral_Lite_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-285",
-"tipo": "similar"
+"codigo": "HK-490"
 },
 {
 "modelo": "AX PRO",
 "seccion": "6.5 Software- HikCentral Lite",
 "linea": "HikCentral Lite",
-"foto": "img-oficial/SEC_6_5_Software_HikCentral_Lite_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-286",
-"tipo": "similar"
+"codigo": "HK-491"
 },
 {
 "modelo": "HikCentral Mini Cube",
 "seccion": "6.6 Server",
 "linea": "Servidores",
-"foto": "img-linea/6.6-66.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-287",
-"tipo": "linea"
+"codigo": "HK-492"
 },
 {
 "modelo": "HikCentral-P-VER",
 "seccion": "6.6 Server",
 "linea": "Servidores",
-"foto": "img-linea/6.6-66.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-288",
-"tipo": "linea"
+"codigo": "HK-493"
 },
 {
 "modelo": "HikCentral Professional Server HikCentral-P-VET",
 "seccion": "6.6 Server",
 "linea": "Servidores",
-"foto": "img-linea/6.6-66.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-289",
-"tipo": "linea"
+"codigo": "HK-494"
 },
 {
 "modelo": "HikCentral-P-VET",
 "seccion": "6.6 Server",
 "linea": "Servidores",
-"foto": "img-linea/6.6-66.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-290",
-"tipo": "linea"
+"codigo": "HK-495"
 },
 {
 "modelo": "HikCentral Workstation Core Ultra CPU",
 "seccion": "6.6 Server",
 "linea": "Servidores",
-"foto": "img-linea/6.6-66.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-291",
-"tipo": "linea"
+"codigo": "HK-496"
 },
 {
 "modelo": "DS-VH22-R/HW2",
@@ -2497,7 +3973,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VH22_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-vh22-r-hw7e/",
-"codigo": "HK-292"
+"codigo": "HK-497"
 },
 {
 "modelo": "DS-VH22-R/HW2E",
@@ -2505,7 +3981,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VH22_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-vh22-r-hw7e/",
-"codigo": "HK-293"
+"codigo": "HK-498"
 },
 {
 "modelo": "DS-VH22-R/HW3E",
@@ -2513,7 +3989,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VH22_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-vh22-r-hw7e/",
-"codigo": "HK-294"
+"codigo": "HK-499"
 },
 {
 "modelo": "DS-VH22-R/HW52E",
@@ -2521,7 +3997,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VH22_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-vh22-r-hw7e/",
-"codigo": "HK-295"
+"codigo": "HK-500"
 },
 {
 "modelo": "DS-VE11-R/HW1",
@@ -2529,7 +4005,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE11_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve11-r-hw5/",
-"codigo": "HK-296"
+"codigo": "HK-501"
 },
 {
 "modelo": "DS-VE11-R/HW2",
@@ -2537,7 +4013,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE11_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve11-r-hw5/",
-"codigo": "HK-297"
+"codigo": "HK-502"
 },
 {
 "modelo": "DS-VE11-R/HW5E",
@@ -2545,7 +4021,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE11_R.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve11-r-hw5/",
-"codigo": "HK-298"
+"codigo": "HK-503"
 },
 {
 "modelo": "DS-VE41-T/HW5(B)",
@@ -2553,7 +4029,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE41_T.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve41-t-hw5-b-/",
-"codigo": "HK-299"
+"codigo": "HK-504"
 },
 {
 "modelo": "DS-VE41-T/HW7(B)",
@@ -2561,7 +4037,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE41_T.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve41-t-hw5-b-/",
-"codigo": "HK-300"
+"codigo": "HK-505"
 },
 {
 "modelo": "DS-VE41-T/HW71(B)",
@@ -2569,7 +4045,7 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE41_T.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve41-t-hw5-b-/",
-"codigo": "HK-301"
+"codigo": "HK-506"
 },
 {
 "modelo": "DS-VE41-T/HW72(B)",
@@ -2577,177 +4053,182 @@
 "linea": "Servidores",
 "foto": "img-oficial/DS_VE41_T.png",
 "web": "https://www.hikvision.com/en/products/software/server-products/general-purpose-server/ds-ve41-t-hw5-b-/",
-"codigo": "HK-302"
+"codigo": "HK-507"
 },
 {
 "modelo": "AcuSeek Compatible with leading third",
 "seccion": "6.6 Server",
 "linea": "Servidores",
-"foto": "img-linea/6.6-66.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-303",
-"tipo": "linea"
+"codigo": "HK-508"
 },
 {
-"modelo": "Línea completa (ver catálogo)",
-"seccion": "1.3 PDA Overview",
-"linea": "Terminales portátiles (PDA)",
-"foto": "img-oficial/SEC_1_3_PDA_Overview_3.png",
+"modelo": "HikCentral-P-VER/HW1D/64",
+"seccion": "6.6 Server",
+"linea": "Servidores",
+"foto": null,
 "web": null,
-"codigo": "HK-304",
-"tipo": "similar"
+"codigo": "HK-509"
+},
+{
+"modelo": "HikCentral-P-VER/HW1D/300",
+"seccion": "6.6 Server",
+"linea": "Servidores",
+"foto": null,
+"web": null,
+"codigo": "HK-510"
+},
+{
+"modelo": "HikCentral-P-VET/HW5B/32",
+"seccion": "6.6 Server",
+"linea": "Servidores",
+"foto": null,
+"web": null,
+"codigo": "HK-511"
+},
+{
+"modelo": "HikCentral-P-VET/HW7B/32",
+"seccion": "6.6 Server",
+"linea": "Servidores",
+"foto": null,
+"web": null,
+"codigo": "HK-512"
+},
+{
+"modelo": "HikCentral Mini Cube/64",
+"seccion": "6.6 Server",
+"linea": "Servidores",
+"foto": null,
+"web": null,
+"codigo": "HK-513"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "1.5 ITS-Checkpoint and Traffic Incident Detection",
 "linea": "Tránsito: lectura de placas e incidentes",
-"foto": "img-oficial/SEC_1_5_ITS_Checkpoint_and_Traffic_Incident_Detect.png",
+"foto": null,
 "web": null,
-"codigo": "HK-305",
-"tipo": "similar"
+"codigo": "HK-514"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "1.5 ITS-Signal Control and Mobile Enforcement System",
 "linea": "Tránsito: semáforos y fiscalización",
-"foto": "img-oficial/SEC_1_5_ITS_Signal_Control_and_Mobile_Enforcement_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-306",
-"tipo": "similar"
+"codigo": "HK-515"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "1.6 Medical Endoscope",
 "linea": "Endoscopios médicos",
-"foto": "img-linea/1.6-12.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-307",
-"tipo": "linea"
+"codigo": "HK-516"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "1.8 Security Radar",
 "linea": "Radares de seguridad",
-"foto": "img-oficial/SEC_1_8_Security_Radar_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-308",
-"tipo": "similar"
+"codigo": "HK-517"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "1.9 Industrial Radar",
 "linea": "Radares industriales",
-"foto": "img-oficial/SEC_1_9_Industrial_Radar_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-309",
-"tipo": "similar"
+"codigo": "HK-518"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "1.10 Audio",
 "linea": "Audio y megafonía",
-"foto": "img-oficial/SEC_1_10_Audio_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-310",
-"tipo": "similar"
+"codigo": "HK-519"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "2.1 Networking-Switch",
 "linea": "Switches de red",
-"foto": "img-oficial/SEC_2_1_Networking_Switch_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-311",
-"tipo": "similar"
+"codigo": "HK-520"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "2.3 Networking-AP & Smart Managed Router",
 "linea": "WiFi empresarial",
-"foto": "img-oficial/SEC_2_3_Networking_AP_Smart_Managed_Router_3.png",
+"foto": null,
 "web": null,
-"codigo": "HK-312",
-"tipo": "similar"
+"codigo": "HK-521"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "2.5 Networking-Networking Solution for SMBs",
 "linea": "Redes para pequeñas y medianas empresas",
-"foto": "img-oficial/SEC_2_5_Networking_Networking_Solution_for_SMBs_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-313",
-"tipo": "similar"
-},
-{
-"modelo": "Línea completa (ver catálogo)",
-"seccion": "3.6 Network Storage",
-"linea": "Almacenamiento en red",
-"foto": "img-oficial/SEC_3_6_Network_Storage_1.png",
-"web": null,
-"codigo": "HK-314",
-"tipo": "similar"
+"codigo": "HK-522"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "5.5 Vehicle Access Control Management",
 "linea": "Control vehicular",
-"foto": "img-oficial/SEC_5_5_Vehicle_Access_Control_Management_2.png",
+"foto": null,
 "web": null,
-"codigo": "HK-315",
-"tipo": "similar"
+"codigo": "HK-523"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "5.5 Vehicle Access Control Management-License Plate & Long-Range UHF Card",
 "linea": "Placas y tarjetas UHF de largo alcance",
-"foto": "img-oficial/SEC_5_5_Vehicle_Access_Control_Management_License_.png",
+"foto": null,
 "web": null,
-"codigo": "HK-316",
-"tipo": "similar"
+"codigo": "HK-524"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "5.6 Parking Guidance-Indoor Parking Lot",
 "linea": "Guía de parqueo interior",
-"foto": "img-oficial/SEC_5_6_Parking_Guidance_Indoor_Parking_Lot_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-317",
-"tipo": "similar"
+"codigo": "HK-525"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "5.6 Parking Guidance-On-street Parking",
 "linea": "Parqueo en la calle",
-"foto": "img-oficial/SEC_5_6_Parking_Guidance_On_street_Parking_1.png",
+"foto": null,
 "web": null,
-"codigo": "HK-318",
-"tipo": "similar"
+"codigo": "HK-526"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "6.1 Software-Cloud(HC & HPP）",
 "linea": "Plataformas en la nube",
-"foto": "img-linea/6.1-57.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-319",
-"tipo": "linea"
+"codigo": "HK-527"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "6.3 Typical SMB Solution with Hik-Connect",
 "linea": "Solución para PyMEs con Hik-Connect",
-"foto": "img-linea/6.3-60.jpg",
+"foto": null,
 "web": null,
-"codigo": "HK-320",
-"tipo": "linea"
+"codigo": "HK-528"
 },
 {
 "modelo": "Línea completa (ver catálogo)",
 "seccion": "6.4 Software- HikCentral Professional",
 "linea": "HikCentral Professional",
-"foto": "img-oficial/SEC_6_4_Software_HikCentral_Professional_0.png",
+"foto": null,
 "web": null,
-"codigo": "HK-321",
-"tipo": "similar"
+"codigo": "HK-529"
 }
 ]

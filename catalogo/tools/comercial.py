@@ -7,7 +7,7 @@ VOZ = sys.argv[1] if len(sys.argv) > 1 else ''
 P = json.load(open(f'{BASE}/productos.json', encoding='utf-8'))
 FB, FR = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
 f = lambda s, b=True: ImageFont.truetype(FB if b else FR, s)
-NAVY, NAVY2, RED, WHITE = (10, 22, 46), (24, 52, 98), (200, 16, 46), (255, 255, 255)
+NAVY, NAVY2, RED, WHITE = (15, 52, 96), (22, 70, 126), (234, 88, 12), (255, 255, 255)
 W, H = 1080, 1920
 REELS = {'camaras': ('Cámaras de seguridad', 'que te avisan al celular', ['Cámaras IP', 'Cámaras sin cable', 'Kits', 'Cámaras Turbo HD', 'Cámaras de proyecto'], ['1.1', '1.2', '1.7']),
          'redes': ('Grabadores, redes', 'y energía sin cortes', ['Grabadores NVR', 'Redes', 'Energía'], ['2.1', '2.2', '2.8']),
@@ -51,7 +51,7 @@ def slide_cta():
     c = Image.new('RGB', (W, H), RED); d = ImageDraw.Draw(c)
     d.text((W // 2, 640), 'Cotiza hoy', font=f(110), fill=WHITE, anchor='mm')
     d.text((W // 2, 760), 'por WhatsApp', font=f(64, False), fill=WHITE, anchor='mm')
-    for i, n in enumerate(['809-437-8927', '849-653-8927']):
+    for i, n in enumerate(['849-653-8927', '809-437-8927']):
         d.rounded_rectangle([140, 880 + i * 170, W - 140, 1010 + i * 170], 60, fill=WHITE)
         d.text((W // 2, 945 + i * 170), n, font=f(84), fill=RED, anchor='mm')
     d.text((W // 2, 1340), 'Instalación profesional · Garantía', font=f(44, False), fill=WHITE, anchor='mm')
@@ -86,9 +86,13 @@ for key, (t1, t2, cats, gamas) in REELS.items():
     for i in range(1, n):
         off += d - X; flt.append(f'[{prev}][v{i}]xfade=transition={"slideleft" if i % 2 else "fade"}:duration={X}:offset={off:.2f}[x{i}]'); prev = f'x{i}'
     cmd = ['ffmpeg', '-loglevel', 'error', '-y'] + inp
-    if voz and os.path.exists(voz): cmd += ['-i', voz]
-    cmd += ['-filter_complex', ';'.join(flt), '-map', f'[{prev}]']
-    if voz and os.path.exists(voz): cmd += ['-map', f'{n}:a', '-c:a', 'aac', '-b:a', '128k', '-af', 'adelay=600|600,apad', '-shortest']
+    MUS = f'{BASE}/audio/musica-tecno-124bpm.mp3'
+    cmd += ['-stream_loop', '-1', '-i', MUS]
+    if voz and os.path.exists(voz):
+        cmd += ['-i', voz]; flt.append(f'[{n}:a]volume=0.22[m];[{n+1}:a]adelay=600|600,volume=1.4[v];[m][v]amix=inputs=2:duration=first:dropout_transition=0[a]')
+    else:
+        flt.append(f'[{n}:a]volume=0.8[a]')
+    cmd += ['-filter_complex', ';'.join(flt), '-map', f'[{prev}]', '-map', '[a]', '-c:a', 'aac', '-b:a', '160k', '-t', f'{total:.2f}']
     cmd += ['-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-pix_fmt', 'yuv420p', '-movflags', '+faststart', f'{BASE}/comerciales/comercial-{key}.mp4']
     subprocess.run(cmd, check=True)
     print(key, n, 'diapositivas', round(total, 1), 's', 'con voz' if voz and os.path.exists(voz) else 'sin voz')

@@ -3,9 +3,9 @@
 **WhatsApp (va con `presentacion-constructoras.pdf` adjunto):**
 
 > Buenas tardes, le saluda el asistente de ainshop tecnology.
-> Somos instaladores y distribuidores de la línea completa Hikvision en Santo Domingo: videoporteros para edificios, control de acceso, cámaras, alarma contra incendio, control vehicular y redes, todo integrado en una sola plataforma.
+> Somos especialistas en instalación de la línea completa Hikvision en Santo Domingo: videoporteros para edificios, control de acceso, cámaras, alarma contra incendio, control vehicular y redes, todo integrado en una sola plataforma.
 > Le comparto nuestra presentación para sus proyectos. Si tienen una obra en planos o en construcción, con gusto hacemos el levantamiento y la propuesta.
-> ainshop tecnology · 809-437-8927 · Responda BAJA si no desea recibir mensajes.
+> ainshop tecnology · WhatsApp 849-653-8927 · Responda BAJA si no desea recibir mensajes.
 
 **Correo (cuando exista ventas@ainshoptecnology.com):**
 
